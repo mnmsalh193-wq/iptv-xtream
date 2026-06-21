@@ -147,7 +147,821 @@ http://480590211101.elg-26.com:80/live/Lhajmohamed1/prbwvpjkak/245827.ts
 http://480590211101.elg-26.com:80/live/Lhajmohamed1/prbwvpjkak/117126.ts
 #EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="beIN Sports XTRA 2 SD" group-title="|AR| ✪ BEIN SPORT SD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2HD.png",beIN Sports XTRA 2 SD
 http://480590211101.elg-26.com:80/live/Lhajmohamed1/prbwvpjkak/117131.ts
-#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="beIN Sports XSTRA 3 SD" group-title="|AR| ✪ BEIN SPORT SD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png",beIN Sports XSTRA 3 SD
+##EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="FR - GOLF+" group-title="Uncategorized" tvg-logo="http://103.176.90.118/picons-dino/logos/golfplus.png",FR - GOLF+
+http://tv24.site:80/live/943ff4e380/5cafbf676717/246445.ts
+#EXTINF:-1 tvg-id="1341000" tvg-name="AR - ALWAN SPORT 1 4K" group-title="|AR| ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 1 4K
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1341000.ts
+#EXTINF:-1 tvg-id="1340999" tvg-name="AR - ALWAN SPORT 2 4K" group-title="|AR| ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 2 4K
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1340999.ts
+#EXTINF:-1 tvg-id="1340998" tvg-name="AR - ALWAN SPORT 3 4K" group-title="|AR| ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 3 4K
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1340998.ts
+#EXTINF:-1 tvg-id="1340997" tvg-name="AR - ALWAN SPORT 4 4K" group-title="|AR| ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 4 4K
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1340997.ts
+#EXTINF:-1 tvg-id="1340996" tvg-name="AR - ALWAN SPORT 5 4K" group-title="|AR| ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 5 4K
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1340996.ts
+#EXTINF:-1 tvg-id="1340995" tvg-name="AR - ALWAN SPORT 6 4K" group-title="|AR| ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 6 4K
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1340995.ts
+#EXTINF:-1 tvg-id="1340994" tvg-name="AR - ALWAN SPORT 1 HD" group-title="|AR| ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 1 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1340994.ts
+#EXTINF:-1 tvg-id="1340993" tvg-name="AR - ALWAN SPORT 2 HD" group-title="|AR| ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 2 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1340993.ts
+#EXTINF:-1 tvg-id="1340992" tvg-name="AR - ALWAN SPORT 3 HD" group-title="|AR| ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 3 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1340992.ts
+#EXTINF:-1 tvg-id="1340991" tvg-name="AR - ALWAN SPORT 4 HD" group-title="|AR| ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 4 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1340991.ts
+#EXTINF:-1 tvg-id="1340990" tvg-name="AR - ALWAN SPORT 5 HD" group-title="|AR| ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png",AR - ALWAN SPORT 5 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1340990.ts
+#EXTINF:-1 tvg-id="1340989" tvg-name="AR - ALWAN SPORT 6 HD" group-title="|AR| ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png",AR - ALWAN SPORT 6 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1340989.ts
+#EXTINF:-1 tvg-id="1340988" tvg-name="AR - ALWAN SPORT 1 SD" group-title="|AR| ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png",AR - ALWAN SPORT 1 SD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1340988.ts
+#EXTINF:-1 tvg-id="1340987" tvg-name="AR - ALWAN SPORT 2 SD" group-title="|AR| ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png",AR - ALWAN SPORT 2 SD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1340987.ts
+#EXTINF:-1 tvg-id="1340986" tvg-name="AR - ALWAN SPORT 3 SD" group-title="|AR| ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png",AR - ALWAN SPORT 3 SD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1340986.ts
+#EXTINF:-1 tvg-id="1340985" tvg-name="AR - ALWAN SPORT 4 SD" group-title="|AR| ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png",AR - ALWAN SPORT 4 SD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1340985.ts
+#EXTINF:-1 tvg-id="1340984" tvg-name="AR - ALWAN SPORT 5 SD" group-title="|AR| ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png",AR - ALWAN SPORT 5 SD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1340984.ts
+#EXTINF:-1 tvg-id="1340983" tvg-name="AR - ALWAN SPORT 6 SD" group-title="|AR| ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png",AR - ALWAN SPORT 6 SD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1340983.ts
+#EXTINF:-1 tvg-id="862854" tvg-name="##### BEIN ENTERTAINMENT #####" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862854.png",##### BEIN ENTERTAINMENT #####
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862854.ts
+#EXTINF:-1 tvg-id="862853" tvg-name="BEIN MOVIES PREMIERE 1 HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862853.png",BEIN MOVIES PREMIERE 1 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862853.ts
+#EXTINF:-1 tvg-id="862852" tvg-name="BEIN MOVIES ACTION 2 HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862852.png",BEIN MOVIES ACTION 2 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862852.ts
+#EXTINF:-1 tvg-id="862851" tvg-name="BEIN MOVIES DRAMA 3 HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862851.png",BEIN MOVIES DRAMA 3 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862851.ts
+#EXTINF:-1 tvg-id="862850" tvg-name="BEIN MOVIES FAMILY 4 HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862850.png",BEIN MOVIES FAMILY 4 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862850.ts
+#EXTINF:-1 tvg-id="862849" tvg-name="BEIN SERIES 1 HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862849.png",BEIN SERIES 1 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862849.ts
+#EXTINF:-1 tvg-id="862848" tvg-name="BEIN SERIES 2 HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862848.png",BEIN SERIES 2 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862848.ts
+#EXTINF:-1 tvg-id="862847" tvg-name="BEIN DRAMA HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862847.png",BEIN DRAMA HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862847.ts
+#EXTINF:-1 tvg-id="862846" tvg-name="BEIN FOOD NETWORK HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862846.png",BEIN FOOD NETWORK HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862846.ts
+#EXTINF:-1 tvg-id="862845" tvg-name="BEIN GOURMET HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862845.png",BEIN GOURMET HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862845.ts
+#EXTINF:-1 tvg-id="862844" tvg-name="BEIN FATAFEAT HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862844.png",BEIN FATAFEAT HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862844.ts
+#EXTINF:-1 tvg-id="862841" tvg-name="BEIN FOX MOVIES HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862841.png",BEIN FOX MOVIES HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862841.ts
+#EXTINF:-1 tvg-id="862840" tvg-name="BEIN FOX ACTION HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862840.png",BEIN FOX ACTION HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862840.ts
+#EXTINF:-1 tvg-id="862838" tvg-name="BEIN STAR WORLD HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862838.png",BEIN STAR WORLD HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862838.ts
+#EXTINF:-1 tvg-id="862837" tvg-name="BEIN BBC EARTH HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862837.png",BEIN BBC EARTH HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862837.ts
+#EXTINF:-1 tvg-id="862836" tvg-name="BEIN TRAVEL HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862836.png",BEIN TRAVEL HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862836.ts
+#EXTINF:-1 tvg-id="862835" tvg-name="BEIN ANIMAL PLANET HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862835.png",BEIN ANIMAL PLANET HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862835.ts
+#EXTINF:-1 tvg-id="862834" tvg-name="BEIN NATIONAL GEO HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862834.png",BEIN NATIONAL GEO HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862834.ts
+#EXTINF:-1 tvg-id="862833" tvg-name="BEIN NATIONAL GEO WILD HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862833.png",BEIN NATIONAL GEO WILD HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862833.ts
+#EXTINF:-1 tvg-id="862832" tvg-name="BEIN HGTV HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862832.png",BEIN HGTV HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862832.ts
+#EXTINF:-1 tvg-id="862831" tvg-name="BEIN BABY TV HD AR" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862831.png",BEIN BABY TV HD AR
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862831.ts
+#EXTINF:-1 tvg-id="862830" tvg-name="BEIN JEEM KIDS HD" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862830.png",BEIN JEEM KIDS HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862830.ts
+#EXTINF:-1 tvg-id="862829" tvg-name="BEIN BARAEM KIDS" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862829.png",BEIN BARAEM KIDS
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862829.ts
+#EXTINF:-1 tvg-id="862826" tvg-name="BEIN BOOMERANG HD AR" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862826.png",BEIN BOOMERANG HD AR
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862826.ts
+#EXTINF:-1 tvg-id="862824" tvg-name="BEIN CARTOON NETWORK HD AR" group-title="|AR| BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862824.png",BEIN CARTOON NETWORK HD AR
+http://tv24.site:80/live/943ff4e380/5cafbf676717/862824.ts
+#EXTINF:-1 tvg-id="594506" tvg-name="##### AR - BEIN OD #####" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png",##### AR - BEIN OD #####
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594506.ts
+#EXTINF:-1 tvg-id="594505" tvg-name="AR - BEIN OD 1 MOVIES UHD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png",AR - BEIN OD 1 MOVIES UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594505.ts
+#EXTINF:-1 tvg-id="594504" tvg-name="AR - BEIN OD 2 MOVIES UHD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png",AR - BEIN OD 2 MOVIES UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594504.ts
+#EXTINF:-1 tvg-id="594503" tvg-name="AR - BEIN OD 3 MOVIES UHD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png",AR - BEIN OD 3 MOVIES UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594503.ts
+#EXTINF:-1 tvg-id="594502" tvg-name="AR - BEIN OD 4 MOVIES UHD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png",AR - BEIN OD 4 MOVIES UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594502.ts
+#EXTINF:-1 tvg-id="594501" tvg-name="AR - BEIN OD 5 MOVIES UHD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png",AR - BEIN OD 5 MOVIES UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594501.ts
+#EXTINF:-1 tvg-id="594500" tvg-name="AR - BEIN OD 6 MOVIES UHD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png",AR - BEIN OD 6 MOVIES UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594500.ts
+#EXTINF:-1 tvg-id="594499" tvg-name="AR - BEIN OD 7 MOVIES UHD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png",AR - BEIN OD 7 MOVIES UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594499.ts
+#EXTINF:-1 tvg-id="594498" tvg-name="AR - BEIN OD 8 MOVIES UHD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png",AR - BEIN OD 8 MOVIES UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594498.ts
+#EXTINF:-1 tvg-id="1030184" tvg-name="AR - BEIN OD 2023 1 UHD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png",AR - BEIN OD 2023 1 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1030184.ts
+#EXTINF:-1 tvg-id="1060628" tvg-name="AR - BEIN OD 2023 2 UHD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png",AR - BEIN OD 2023 2 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1060628.ts
+#EXTINF:-1 tvg-id="1060627" tvg-name="AR - BEIN OD 2023 3 UHD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png",AR - BEIN OD 2023 3 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1060627.ts
+#EXTINF:-1 tvg-id="1060626" tvg-name="AR - BEIN OD 2023 4 UHD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png",AR - BEIN OD 2023 4 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1060626.ts
+#EXTINF:-1 tvg-id="594497" tvg-name="AR - BEIN OD 1 KIDS UHD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png",AR - BEIN OD 1 KIDS UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594497.ts
+#EXTINF:-1 tvg-id="594496" tvg-name="AR - BEIN OD 2 KIDS UHD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png",AR - BEIN OD 2 KIDS UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594496.ts
+#EXTINF:-1 tvg-id="594495" tvg-name="AR - BEIN OD 3 KIDS UHD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png",AR - BEIN OD 3 KIDS UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594495.ts
+#EXTINF:-1 tvg-id="594494" tvg-name="AR - BEIN BARAM UHD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/594494.png",AR - BEIN BARAM UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594494.ts
+#EXTINF:-1 tvg-id="594493" tvg-name="AR - BEIN BARAM HEVC" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/594493.png",AR - BEIN BARAM HEVC
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594493.ts
+#EXTINF:-1 tvg-id="594492" tvg-name="AR - BEIN BARAM HD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/594492.png",AR - BEIN BARAM HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594492.ts
+#EXTINF:-1 tvg-id="594491" tvg-name="AR - BEIN BARAM SD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/594491.png",AR - BEIN BARAM SD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594491.ts
+#EXTINF:-1 tvg-id="594489" tvg-name="AR - BEIN BOX OFFICE 1 UHD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/594489.png",AR - BEIN BOX OFFICE 1 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594489.ts
+#EXTINF:-1 tvg-id="594488" tvg-name="AR - BEIN BOX OFFICE 1 HD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/594488.png",AR - BEIN BOX OFFICE 1 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594488.ts
+#EXTINF:-1 tvg-id="594486" tvg-name="AR - BEIN BOX OFFICE 2 UHD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/594486.png",AR - BEIN BOX OFFICE 2 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594486.ts
+#EXTINF:-1 tvg-id="594485" tvg-name="AR - BEIN BOX OFFICE 2 HD" group-title="|AR| BEIN PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/594485.png",AR - BEIN BOX OFFICE 2 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/594485.ts
+#EXTINF:-1 tvg-id="1006846" tvg-name="AR - WATCHBOX DOCUMENTARY" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",AR - WATCHBOX DOCUMENTARY
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006846.ts
+#EXTINF:-1 tvg-id="1006845" tvg-name="AR - WATCHBOX BARAEEM" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",AR - WATCHBOX BARAEEM
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006845.ts
+#EXTINF:-1 tvg-id="1006844" tvg-name="AR - WATCHBOX DISNEY XD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",AR - WATCHBOX DISNEY XD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006844.ts
+#EXTINF:-1 tvg-id="1006843" tvg-name="AR - WATCHBOX LIFE" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",AR - WATCHBOX LIFE
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006843.ts
+#EXTINF:-1 tvg-id="1006842" tvg-name="AR - WATCHBOX MAX" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",AR - WATCHBOX MAX
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006842.ts
+#EXTINF:-1 tvg-id="1006841" tvg-name="AR - WATCHBOX PRIME" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",AR - WATCHBOX PRIME
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006841.ts
+#EXTINF:-1 tvg-id="1006840" tvg-name="AR - WATCHBOX REWAYAT" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",AR - WATCHBOX REWAYAT
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006840.ts
+#EXTINF:-1 tvg-id="1006839" tvg-name="AR - WATCHBOX SIGNAL" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",AR - WATCHBOX SIGNAL
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006839.ts
+#EXTINF:-1 tvg-id="1007040" tvg-name="AR - WATCHBOX BARAEEM UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",AR - WATCHBOX BARAEEM UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007040.ts
+#EXTINF:-1 tvg-id="1007039" tvg-name="AR - WATCHBOX DISNEY XD UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",AR - WATCHBOX DISNEY XD UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007039.ts
+#EXTINF:-1 tvg-id="1007038" tvg-name="AR - WATCHBOX PRIME UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",AR - WATCHBOX PRIME UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007038.ts
+#EXTINF:-1 tvg-id="1007037" tvg-name="AR - WATCHBOX MAX UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",AR - WATCHBOX MAX UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007037.ts
+#EXTINF:-1 tvg-id="1007036" tvg-name="AR - WATCHBOX DOCUMENTARY UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",AR - WATCHBOX DOCUMENTARY UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007036.ts
+#EXTINF:-1 tvg-id="1007035" tvg-name="AR - WATCHBOX LIFE UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",AR - WATCHBOX LIFE UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007035.ts
+#EXTINF:-1 tvg-id="1007034" tvg-name="AR - WATCHBOX REWAYAT UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",AR - WATCHBOX REWAYAT UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007034.ts
+#EXTINF:-1 tvg-id="1007033" tvg-name="AR - WATCHBOX SIGNAL UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",AR - WATCHBOX SIGNAL UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007033.ts
+#EXTINF:-1 tvg-id="1007032" tvg-name="AR - POWER CLIPS UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",AR - POWER CLIPS UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007032.ts
+#EXTINF:-1 tvg-id="1007031" tvg-name="AR - POWER FITNESS W UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",AR - POWER FITNESS W UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007031.ts
+#EXTINF:-1 tvg-id="1007030" tvg-name="AR - POWER FITNESS M UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",AR - POWER FITNESS M UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007030.ts
+#EXTINF:-1 tvg-id="1007029" tvg-name="AR - POWER SERIES UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",AR - POWER SERIES UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007029.ts
+#EXTINF:-1 tvg-id="1007028" tvg-name="AR - POWER DISNEY UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",AR - POWER DISNEY UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007028.ts
+#EXTINF:-1 tvg-id="1007027" tvg-name="AR - POWER SPIDER UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",AR - POWER SPIDER UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007027.ts
+#EXTINF:-1 tvg-id="1007026" tvg-name="AR - POWER FILMBOX UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",AR - POWER FILMBOX UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007026.ts
+#EXTINF:-1 tvg-id="1007025" tvg-name="AR - POWER FOX MOVIES UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",AR - POWER FOX MOVIES UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007025.ts
+#EXTINF:-1 tvg-id="1007024" tvg-name="AR - POWER THOR UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",AR - POWER THOR UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007024.ts
+#EXTINF:-1 tvg-id="1007023" tvg-name="AR - POWER AVANGERS UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",AR - POWER AVANGERS UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007023.ts
+#EXTINF:-1 tvg-id="1007022" tvg-name="AR - POWER MARVEL UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",AR - POWER MARVEL UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007022.ts
+#EXTINF:-1 tvg-id="1007021" tvg-name="AR - POWER DRAMA UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",AR - POWER DRAMA UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007021.ts
+#EXTINF:-1 tvg-id="1007020" tvg-name="AR - POWER ACTION  UHD" group-title="|AR| WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",AR - POWER ACTION  UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1007020.ts
+#EXTINF:-1 tvg-id="1006847" tvg-name="##### WEYYAK #####" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",##### WEYYAK #####
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006847.ts
+#EXTINF:-1 tvg-id="1006869" tvg-name="AR| WEYYAK ACTION FHD" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| WEYYAK ACTION FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006869.ts
+#EXTINF:-1 tvg-id="1006867" tvg-name="AR| WEYYAK DRAMA FHD" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| WEYYAK DRAMA FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006867.ts
+#EXTINF:-1 tvg-id="1006868" tvg-name="AR| WEYYAK MIX FHD" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| WEYYAK MIX FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006868.ts
+#EXTINF:-1 tvg-id="1006870" tvg-name="AR| WEYYAK NAWAEM FHD" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| WEYYAK NAWAEM FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006870.ts
+#EXTINF:-1 tvg-id="1006866" tvg-name="AR| WEYYAK SMASHI TV FHD" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| WEYYAK SMASHI TV FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006866.ts
+#EXTINF:-1 tvg-id="1006852" tvg-name="AR| أيوب" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| أيوب
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006852.ts
+#EXTINF:-1 tvg-id="1006851" tvg-name="AR| إمرأة من رماد" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| إمرأة من رماد
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006851.ts
+#EXTINF:-1 tvg-id="1006849" tvg-name="AR| المفتاح" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| المفتاح
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006849.ts
+#EXTINF:-1 tvg-id="1006850" tvg-name="AR| المواجهة" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| المواجهة
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006850.ts
+#EXTINF:-1 tvg-id="1006856" tvg-name="AR| حكايا" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| حكايا
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006856.ts
+#EXTINF:-1 tvg-id="1006857" tvg-name="AR| حكايا المرايا" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| حكايا المرايا
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006857.ts
+#EXTINF:-1 tvg-id="1006853" tvg-name="AR| رحيم" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| رحيم
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006853.ts
+#EXTINF:-1 tvg-id="1006862" tvg-name="AR| عطر الشام 1" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| عطر الشام 1
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006862.ts
+#EXTINF:-1 tvg-id="1006863" tvg-name="AR| عطر الشام 2" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| عطر الشام 2
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006863.ts
+#EXTINF:-1 tvg-id="1006864" tvg-name="AR| عطر الشام 3" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| عطر الشام 3
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006864.ts
+#EXTINF:-1 tvg-id="1006865" tvg-name="AR| عطر الشام 4" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| عطر الشام 4
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006865.ts
+#EXTINF:-1 tvg-id="1006848" tvg-name="AR| لمعي القط" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| لمعي القط
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006848.ts
+#EXTINF:-1 tvg-id="1006858" tvg-name="AR| مرايا 1997" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| مرايا 1997
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006858.ts
+#EXTINF:-1 tvg-id="1006859" tvg-name="AR| مرايا 1998" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| مرايا 1998
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006859.ts
+#EXTINF:-1 tvg-id="1006860" tvg-name="AR| مرايا 2003" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| مرايا 2003
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006860.ts
+#EXTINF:-1 tvg-id="1006861" tvg-name="AR| مرايا 2011" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| مرايا 2011
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006861.ts
+#EXTINF:-1 tvg-id="1006855" tvg-name="AR| وثيقة شرف" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| وثيقة شرف
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006855.ts
+#EXTINF:-1 tvg-id="1006854" tvg-name="AR| وطن حاف" group-title="|AR| WEYYAK" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",AR| وطن حاف
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006854.ts
+#EXTINF:-1 tvg-id="587714" tvg-name="###### NF - NETFLIX  ######" group-title="|AR| NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",###### NF - NETFLIX  ######
+http://tv24.site:80/live/943ff4e380/5cafbf676717/587714.ts
+#EXTINF:-1 tvg-id="587715" tvg-name="NF - NETFLIX MOVIES 1 4K" group-title="|AR| NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",NF - NETFLIX MOVIES 1 4K
+http://tv24.site:80/live/943ff4e380/5cafbf676717/587715.ts
+#EXTINF:-1 tvg-id="587713" tvg-name="NF - NETFLIX MOVIES 1 UHD" group-title="|AR| NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",NF - NETFLIX MOVIES 1 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/587713.ts
+#EXTINF:-1 tvg-id="587712" tvg-name="NF - NETFLIX MOVIES 2 UHD" group-title="|AR| NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",NF - NETFLIX MOVIES 2 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/587712.ts
+#EXTINF:-1 tvg-id="587711" tvg-name="NF - NETFLIX MOVIES 3 UHD" group-title="|AR| NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",NF - NETFLIX MOVIES 3 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/587711.ts
+#EXTINF:-1 tvg-id="587710" tvg-name="NF - NETFLIX MOVIES 4 UHD" group-title="|AR| NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",NF - NETFLIX MOVIES 4 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/587710.ts
+#EXTINF:-1 tvg-id="587709" tvg-name="NF - NETFLIX MOVIES 5 UHD" group-title="|AR| NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",NF - NETFLIX MOVIES 5 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/587709.ts
+#EXTINF:-1 tvg-id="587708" tvg-name="NF - NETFLIX MOVIES 6 UHD" group-title="|AR| NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",NF - NETFLIX MOVIES 6 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/587708.ts
+#EXTINF:-1 tvg-id="587707" tvg-name="NF - NETFLIX MOVIES 7 UHD" group-title="|AR| NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",NF - NETFLIX MOVIES 7 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/587707.ts
+#EXTINF:-1 tvg-id="587706" tvg-name="NF - NETFLIX MOVIES 8 UHD" group-title="|AR| NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",NF - NETFLIX MOVIES 8 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/587706.ts
+#EXTINF:-1 tvg-id="587705" tvg-name="NF - NETFLIX MOVIES 9 UHD" group-title="|AR| NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",NF - NETFLIX MOVIES 9 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/587705.ts
+#EXTINF:-1 tvg-id="587704" tvg-name="NF - NETFLIX MOVIES 10 UHD" group-title="|AR| NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",NF - NETFLIX MOVIES 10 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/587704.ts
+#EXTINF:-1 tvg-id="585426" tvg-name="#### SH - SHAHID CINEMA ####" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",#### SH - SHAHID CINEMA ####
+http://tv24.site:80/live/943ff4e380/5cafbf676717/585426.ts
+#EXTINF:-1 tvg-id="585425" tvg-name="SH - SHAHID CINEMA 1 UHD" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",SH - SHAHID CINEMA 1 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/585425.ts
+#EXTINF:-1 tvg-id="585424" tvg-name="SH - SHAHID CINEMA 2 UHD" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",SH - SHAHID CINEMA 2 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/585424.ts
+#EXTINF:-1 tvg-id="585423" tvg-name="SH - SHAHID CINEMA 3 UHD" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",SH - SHAHID CINEMA 3 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/585423.ts
+#EXTINF:-1 tvg-id="585422" tvg-name="SH - SHAHID CINEMA 4 UHD" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",SH - SHAHID CINEMA 4 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/585422.ts
+#EXTINF:-1 tvg-id="585421" tvg-name="SH - SHAHID CINEMA 5 UHD" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",SH - SHAHID CINEMA 5 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/585421.ts
+#EXTINF:-1 tvg-id="585420" tvg-name="SH - SHAHID CINEMA 6 UHD" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",SH - SHAHID CINEMA 6 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/585420.ts
+#EXTINF:-1 tvg-id="585419" tvg-name="SH - SHAHID CINEMA 7 UHD" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",SH - SHAHID CINEMA 7 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/585419.ts
+#EXTINF:-1 tvg-id="585418" tvg-name="SH - SHAHID CINEMA 8 UHD" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",SH - SHAHID CINEMA 8 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/585418.ts
+#EXTINF:-1 tvg-id="585417" tvg-name="SH - SHAHID CINEMA 9 UHD" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",SH - SHAHID CINEMA 9 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/585417.ts
+#EXTINF:-1 tvg-id="585416" tvg-name="SH - SHAHID CINEMA 10 UHD" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",SH - SHAHID CINEMA 10 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/585416.ts
+#EXTINF:-1 tvg-id="585415" tvg-name="SH - SHAHID CINEMA 11 UHD" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",SH - SHAHID CINEMA 11 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/585415.ts
+#EXTINF:-1 tvg-id="585414" tvg-name="SH - SHAHID CINEMA 12 UHD" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",SH - SHAHID CINEMA 12 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/585414.ts
+#EXTINF:-1 tvg-id="585413" tvg-name="SH - SHAHID CINEMA 13 UHD" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",SH - SHAHID CINEMA 13 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/585413.ts
+#EXTINF:-1 tvg-id="585412" tvg-name="SH - SHAHID CINEMA 14 UHD" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",SH - SHAHID CINEMA 14 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/585412.ts
+#EXTINF:-1 tvg-id="585411" tvg-name="SH - SHAHID CINEMA 15 UHD" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",SH - SHAHID CINEMA 15 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/585411.ts
+#EXTINF:-1 tvg-id="585410" tvg-name="SH - SHAHID CINEMA 16 UHD" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",SH - SHAHID CINEMA 16 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/585410.ts
+#EXTINF:-1 tvg-id="1383236" tvg-name="SH - SHAHID CINEMA 17 UHD" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",SH - SHAHID CINEMA 17 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1383236.ts
+#EXTINF:-1 tvg-id="1383235" tvg-name="SH - SHAHID CINEMA 18 UHD" group-title="|AR| SHAHID. CINEMA" tvg-logo="http://51.158.145.100/picons/logos/arabic/SHAHID.png",SH - SHAHID CINEMA 18 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1383235.ts
+#EXTINF:-1 tvg-id="602746" tvg-name="###### GOBX - GOBX GROUP ######" group-title="|AR| GOBX GROUP" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/GOBX.png",###### GOBX - GOBX GROUP ######
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602746.ts
+#EXTINF:-1 tvg-id="1116394" tvg-name="GOBX - REELPX UNLIMITED" group-title="|AR| GOBX GROUP" tvg-logo="http://103.176.90.118/picons/logos/logos/REELPX-UNLIMITED.png",GOBX - REELPX UNLIMITED
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1116394.ts
+#EXTINF:-1 tvg-id="1116393" tvg-name="GOBX - REELPX FAMILY" group-title="|AR| GOBX GROUP" tvg-logo="http://103.176.90.118/picons/logos/logos/REELPX-FAMILY.png",GOBX - REELPX FAMILY
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1116393.ts
+#EXTINF:-1 tvg-id="1116392" tvg-name="GOBX - REELPX COMEDY" group-title="|AR| GOBX GROUP" tvg-logo="http://103.176.90.118/picons/logos/logos/REELPX-COMEDY.png",GOBX - REELPX COMEDY
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1116392.ts
+#EXTINF:-1 tvg-id="1116379" tvg-name="GOBX - REELPX ACTION" group-title="|AR| GOBX GROUP" tvg-logo="http://103.176.90.118/picons/logos/logos/REELPX-ACTION.png",GOBX - REELPX ACTION
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1116379.ts
+#EXTINF:-1 tvg-id="1116378" tvg-name="GOBX - REELPX CRIME" group-title="|AR| GOBX GROUP" tvg-logo="http://103.176.90.118/picons/logos/logos/REELPX-CRIME.png",GOBX - REELPX CRIME
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1116378.ts
+#EXTINF:-1 tvg-id="602745" tvg-name="GOBX - MBC 1 UHD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc1.png",GOBX - MBC 1 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602745.ts
+#EXTINF:-1 tvg-id="602744" tvg-name="GOBX - MBC 1 HD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc1.png",GOBX - MBC 1 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602744.ts
+#EXTINF:-1 tvg-id="602743" tvg-name="GOBX - MBC 2 UHD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc2.png",GOBX - MBC 2 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602743.ts
+#EXTINF:-1 tvg-id="602742" tvg-name="GOBX - MBC 2 HD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc2.png",GOBX - MBC 2 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602742.ts
+#EXTINF:-1 tvg-id="602741" tvg-name="GOBX - MBC 3 UHD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc3.png",GOBX - MBC 3 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602741.ts
+#EXTINF:-1 tvg-id="602740" tvg-name="GOBX - MBC 3 HD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc3.png",GOBX - MBC 3 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602740.ts
+#EXTINF:-1 tvg-id="602739" tvg-name="GOBX - MBC 4 UHD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc4.png",GOBX - MBC 4 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602739.ts
+#EXTINF:-1 tvg-id="602738" tvg-name="GOBX - MBC 4 HD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc4.png",GOBX - MBC 4 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602738.ts
+#EXTINF:-1 tvg-id="602737" tvg-name="GOBX - MBC 5 UHD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc5.png",GOBX - MBC 5 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602737.ts
+#EXTINF:-1 tvg-id="602736" tvg-name="GOBX - MBC 5 HD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc5.png",GOBX - MBC 5 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602736.ts
+#EXTINF:-1 tvg-id="602735" tvg-name="GOBX - MBC DRAMA UHD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbcdrama.png",GOBX - MBC DRAMA UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602735.ts
+#EXTINF:-1 tvg-id="602734" tvg-name="GOBX - MBC DRAMA HD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbcdrama.png",GOBX - MBC DRAMA HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602734.ts
+#EXTINF:-1 tvg-id="602733" tvg-name="GOBX - MBC ACTION UHD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbcaction.png",GOBX - MBC ACTION UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602733.ts
+#EXTINF:-1 tvg-id="602732" tvg-name="GOBX - MBC ACTION HD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbcaction.png",GOBX - MBC ACTION HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602732.ts
+#EXTINF:-1 tvg-id="602731" tvg-name="GOBX - MBC MASR 1 UHD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbcmasr.png",GOBX - MBC MASR 1 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602731.ts
+#EXTINF:-1 tvg-id="602730" tvg-name="GOBX - MBC MASR 1 HD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbcmasr.png",GOBX - MBC MASR 1 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602730.ts
+#EXTINF:-1 tvg-id="602729" tvg-name="GOBX - MBC MASR 2 UHD" group-title="|AR| GOBX GROUP" tvg-logo="http://51.158.145.100/picons/logos/logos/mbcmasr2.png",GOBX - MBC MASR 2 UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602729.ts
+#EXTINF:-1 tvg-id="602728" tvg-name="GOBX - MBC MASR 2 HD" group-title="|AR| GOBX GROUP" tvg-logo="http://51.158.145.100/picons/logos/logos/mbcmasr2.png",GOBX - MBC MASR 2 HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602728.ts
+#EXTINF:-1 tvg-id="602727" tvg-name="GOBX - MBC IRAQ UHD" group-title="|AR| GOBX GROUP" tvg-logo="http://103.176.90.118/picons-dino/logos/MBC-IRAQ.png",GOBX - MBC IRAQ UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602727.ts
+#EXTINF:-1 tvg-id="602726" tvg-name="GOBX - MBC IRAQ HD" group-title="|AR| GOBX GROUP" tvg-logo="http://103.176.90.118/picons-dino/logos/MBC-IRAQ.png",GOBX - MBC IRAQ HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602726.ts
+#EXTINF:-1 tvg-id="602725" tvg-name="GOBX - MBC DRAMA+ UHD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbcdramaplus.png",GOBX - MBC DRAMA+ UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602725.ts
+#EXTINF:-1 tvg-id="602724" tvg-name="GOBX - MBC DRAMA+ HD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbcdramaplus.png",GOBX - MBC DRAMA+ HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602724.ts
+#EXTINF:-1 tvg-id="602723" tvg-name="GOBX - MBC VARIETY UHD" group-title="|AR| GOBX GROUP" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/MBC-VARIETY.png",GOBX - MBC VARIETY UHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602723.ts
+#EXTINF:-1 tvg-id="602722" tvg-name="GOBX - MBC VARIETY HD" group-title="|AR| GOBX GROUP" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/MBC-VARIETY.png",GOBX - MBC VARIETY HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602722.ts
+#EXTINF:-1 tvg-id="602721" tvg-name="GOBX - MBC MAX HD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbcmax.png",GOBX - MBC MAX HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602721.ts
+#EXTINF:-1 tvg-id="602701" tvg-name="GOBX - ZOOMOO HD" group-title="|AR| GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/zoomoo.png",GOBX - ZOOMOO HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/602701.ts
+#EXTINF:-1 tvg-id="904414" tvg-name="##### WATCH IT #####" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons/logos/logos/WATCH-IT.png",##### WATCH IT #####
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904414.ts
+#EXTINF:-1 tvg-id="904438" tvg-name="AR - عمر و دياب" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - عمر و دياب
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904438.ts
+#EXTINF:-1 tvg-id="904437" tvg-name="AR - مشوار الونش" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - مشوار الونش
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904437.ts
+#EXTINF:-1 tvg-id="904436" tvg-name="AR - بالطو" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - بالطو
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904436.ts
+#EXTINF:-1 tvg-id="904435" tvg-name="AR - العيلة دي" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - العيلة دي
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904435.ts
+#EXTINF:-1 tvg-id="904434" tvg-name="AR - الأصلي" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - الأصلي
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904434.ts
+#EXTINF:-1 tvg-id="904433" tvg-name="AR - الكتيبة 101" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - الكتيبة 101
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904433.ts
+#EXTINF:-1 tvg-id="904432" tvg-name="AR - كشف مستعجل" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - كشف مستعجل
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904432.ts
+#EXTINF:-1 tvg-id="904431" tvg-name="AR - مذكرات زوج" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - مذكرات زوج
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904431.ts
+#EXTINF:-1 tvg-id="904430" tvg-name="AR - علاقة مشروعة" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - علاقة مشروعة
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904430.ts
+#EXTINF:-1 tvg-id="904429" tvg-name="AR - بابا المجال" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - بابا المجال
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904429.ts
+#EXTINF:-1 tvg-id="904428" tvg-name="AR - جعفر العمدة" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - جعفر العمدة
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904428.ts
+#EXTINF:-1 tvg-id="904427" tvg-name="AR - وعود سخية" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - وعود سخية
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904427.ts
+#EXTINF:-1 tvg-id="904426" tvg-name="AR - تلت التلاتة" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - تلت التلاتة
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904426.ts
+#EXTINF:-1 tvg-id="904425" tvg-name="AR - ليل ام البنات" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - ليل ام البنات
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904425.ts
+#EXTINF:-1 tvg-id="904424" tvg-name="AR - ضرب نار" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - ضرب نار
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904424.ts
+#EXTINF:-1 tvg-id="904423" tvg-name="AR - حرب" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - حرب
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904423.ts
+#EXTINF:-1 tvg-id="904422" tvg-name="AR - تحت الوصاية" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - تحت الوصاية
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904422.ts
+#EXTINF:-1 tvg-id="904421" tvg-name="AR - العيلة دي" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - العيلة دي
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904421.ts
+#EXTINF:-1 tvg-id="904420" tvg-name="AR - المال والبنون 2" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - المال والبنون 2
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904420.ts
+#EXTINF:-1 tvg-id="904419" tvg-name="AR - المال والبنون 1" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - المال والبنون 1
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904419.ts
+#EXTINF:-1 tvg-id="904418" tvg-name="AR - عيون" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - عيون
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904418.ts
+#EXTINF:-1 tvg-id="904417" tvg-name="AR - الكابتن جودة" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - الكابتن جودة
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904417.ts
+#EXTINF:-1 tvg-id="904416" tvg-name="AR - أعمل إيه" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - أعمل إيه
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904416.ts
+#EXTINF:-1 tvg-id="904415" tvg-name="AR - أذكى غبي في العالم" group-title="|AR| WATCH IT" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",AR - أذكى غبي في العالم
+http://tv24.site:80/live/943ff4e380/5cafbf676717/904415.ts
+#EXTINF:-1 tvg-id="908095" tvg-name="##### STARS PLAY 4K #####" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",##### STARS PLAY 4K #####
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908095.ts
+#EXTINF:-1 tvg-id="908094" tvg-name="AR - مربى العز" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - مربى العز
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908094.ts
+#EXTINF:-1 tvg-id="908093" tvg-name="AR - زقاق الجن" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - زقاق الجن
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908093.ts
+#EXTINF:-1 tvg-id="908092" tvg-name="AR - خريف عمر" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - خريف عمر
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908092.ts
+#EXTINF:-1 tvg-id="908091" tvg-name="AR - النار بالنار" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - النار بالنار
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908091.ts
+#EXTINF:-1 tvg-id="908090" tvg-name="AR - الزند" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - الزند
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908090.ts
+#EXTINF:-1 tvg-id="908089" tvg-name="AR - الأجهر" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - الأجهر
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908089.ts
+#EXTINF:-1 tvg-id="908088" tvg-name="AR - منزل 12" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - منزل 12
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908088.ts
+#EXTINF:-1 tvg-id="908087" tvg-name="AR - مجاريح" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - مجاريح
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908087.ts
+#EXTINF:-1 tvg-id="908086" tvg-name="AR - قفص مخملي" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - قفص مخملي
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908086.ts
+#EXTINF:-1 tvg-id="908085" tvg-name="AR - قرة عينك" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - قرة عينك
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908085.ts
+#EXTINF:-1 tvg-id="908084" tvg-name="AR - فنطاس" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - فنطاس
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908084.ts
+#EXTINF:-1 tvg-id="908083" tvg-name="AR - عملة نادرة" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - عملة نادرة
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908083.ts
+#EXTINF:-1 tvg-id="908082" tvg-name="AR - سوق الكانتو" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - سوق الكانتو
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908082.ts
+#EXTINF:-1 tvg-id="908081" tvg-name="AR - سره الباتع" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - سره الباتع
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908081.ts
+#EXTINF:-1 tvg-id="908080" tvg-name="AR - ستهم" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - ستهم
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908080.ts
+#EXTINF:-1 tvg-id="908079" tvg-name="AR - حضرة العمدة" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - حضرة العمدة
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908079.ts
+#EXTINF:-1 tvg-id="908078" tvg-name="AR - جت سليمة" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - جت سليمة
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908078.ts
+#EXTINF:-1 tvg-id="908077" tvg-name="AR - النكران" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - النكران
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908077.ts
+#EXTINF:-1 tvg-id="908076" tvg-name="AR - إكس لانس" group-title="|AR| STARZ PLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",AR - إكس لانس
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908076.ts
+#EXTINF:-1 tvg-id="1388728" tvg-name="AR - ALWAN TURKEY 4K" group-title="|AR| ALWAN" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALWAN.png",AR - ALWAN TURKEY 4K
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1388728.ts
+#EXTINF:-1 tvg-id="1388727" tvg-name="AR -  ALWAN MOSALSALAT 4K" group-title="|AR| ALWAN" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALWAN.png",AR -  ALWAN MOSALSALAT 4K
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1388727.ts
+#EXTINF:-1 tvg-id="1388726" tvg-name="AR - ALWAN ATFAL 4K" group-title="|AR| ALWAN" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALWAN.png",AR - ALWAN ATFAL 4K
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1388726.ts
+#EXTINF:-1 tvg-id="1388725" tvg-name="AR - ALWAN ALWATHAEQYE 4K" group-title="|AR| ALWAN" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALWAN.png",AR - ALWAN ALWATHAEQYE 4K
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1388725.ts
+#EXTINF:-1 tvg-id="1388724" tvg-name="AR - ALWAN AFLAM 2 4K" group-title="|AR| ALWAN" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALWAN.png",AR - ALWAN AFLAM 2 4K
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1388724.ts
+#EXTINF:-1 tvg-id="1388723" tvg-name="AR - ALWAN AFLAM 1 4K" group-title="|AR| ALWAN" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALWAN.png",AR - ALWAN AFLAM 1 4K
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1388723.ts
+#EXTINF:-1 tvg-id="908389" tvg-name="##### AMAZON PRIME #####" group-title="|AR| AMAZON PRIME" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",##### AMAZON PRIME #####
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908389.ts
+#EXTINF:-1 tvg-id="908388" tvg-name="AR - AMAZON ACTION" group-title="|AR| AMAZON PRIME" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",AR - AMAZON ACTION
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908388.ts
+#EXTINF:-1 tvg-id="908387" tvg-name="AR - AMAZON CRIME" group-title="|AR| AMAZON PRIME" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",AR - AMAZON CRIME
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908387.ts
+#EXTINF:-1 tvg-id="908385" tvg-name="AR - AMAZON DRAMA" group-title="|AR| AMAZON PRIME" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",AR - AMAZON DRAMA
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908385.ts
+#EXTINF:-1 tvg-id="908386" tvg-name="AR - AMAZON MYSTERY" group-title="|AR| AMAZON PRIME" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",AR - AMAZON MYSTERY
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908386.ts
+#EXTINF:-1 tvg-id="908384" tvg-name="AR - AMAZON COMEDY" group-title="|AR| AMAZON PRIME" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",AR - AMAZON COMEDY
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908384.ts
+#EXTINF:-1 tvg-id="908383" tvg-name="AR - AMAZON WAR" group-title="|AR| AMAZON PRIME" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",AR - AMAZON WAR
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908383.ts
+#EXTINF:-1 tvg-id="908382" tvg-name="AR - AMAZON FAMILY" group-title="|AR| AMAZON PRIME" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",AR - AMAZON FAMILY
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908382.ts
+#EXTINF:-1 tvg-id="908381" tvg-name="AR - AMAZON MIXTA" group-title="|AR| AMAZON PRIME" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",AR - AMAZON MIXTA
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908381.ts
+#EXTINF:-1 tvg-id="908380" tvg-name="AR - AMAZON DIRECTO" group-title="|AR| AMAZON PRIME" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",AR - AMAZON DIRECTO
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908380.ts
+#EXTINF:-1 tvg-id="908378" tvg-name="AR - AMAZON DOCUMENTARY" group-title="|AR| AMAZON PRIME" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",AR - AMAZON DOCUMENTARY
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908378.ts
+#EXTINF:-1 tvg-id="908377" tvg-name="AR - AMAZON ARABI +" group-title="|AR| AMAZON PRIME" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",AR - AMAZON ARABI +
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908377.ts
+#EXTINF:-1 tvg-id="908376" tvg-name="AR - AMAZON ARABI +2" group-title="|AR| AMAZON PRIME" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",AR - AMAZON ARABI +2
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908376.ts
+#EXTINF:-1 tvg-id="908375" tvg-name="AR - AMAZON COMIC" group-title="|AR| AMAZON PRIME" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",AR - AMAZON COMIC
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908375.ts
+#EXTINF:-1 tvg-id="908374" tvg-name="AR - AMAZON KIDS" group-title="|AR| AMAZON PRIME" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",AR - AMAZON KIDS
+http://tv24.site:80/live/943ff4e380/5cafbf676717/908374.ts
+#EXTINF:-1 tvg-id="909102" tvg-name="##### HBO #####" group-title="|AR| HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",##### HBO #####
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909102.ts
+#EXTINF:-1 tvg-id="909101" tvg-name="AR - HBO TOP TEN" group-title="|AR| HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",AR - HBO TOP TEN
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909101.ts
+#EXTINF:-1 tvg-id="909100" tvg-name="AR - HBO NOW MOVIES" group-title="|AR| HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",AR - HBO NOW MOVIES
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909100.ts
+#EXTINF:-1 tvg-id="909099" tvg-name="AR - HBO ACTION" group-title="|AR| HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",AR - HBO ACTION
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909099.ts
+#EXTINF:-1 tvg-id="909098" tvg-name="AR - HBO HISTORY" group-title="|AR| HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",AR - HBO HISTORY
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909098.ts
+#EXTINF:-1 tvg-id="909097" tvg-name="AR - HBO CRIME" group-title="|AR| HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",AR - HBO CRIME
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909097.ts
+#EXTINF:-1 tvg-id="909096" tvg-name="AR - HBO MAX" group-title="|AR| HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",AR - HBO MAX
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909096.ts
+#EXTINF:-1 tvg-id="909095" tvg-name="AR - HBO ARABIC" group-title="|AR| HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",AR - HBO ARABIC
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909095.ts
+#EXTINF:-1 tvg-id="909094" tvg-name="AR - HBO ASIAN" group-title="|AR| HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",AR - HBO ASIAN
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909094.ts
+#EXTINF:-1 tvg-id="909093" tvg-name="AR - HBO BOLLYWOOD" group-title="|AR| HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",AR - HBO BOLLYWOOD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909093.ts
+#EXTINF:-1 tvg-id="909092" tvg-name="AR - HBO ANIMATION" group-title="|AR| HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",AR - HBO ANIMATION
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909092.ts
+#EXTINF:-1 tvg-id="909382" tvg-name="##### HULU #####" group-title="|AR| HULU" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",##### HULU #####
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909382.ts
+#EXTINF:-1 tvg-id="909381" tvg-name="AR - HULU ADVENTURE" group-title="|AR| HULU" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",AR - HULU ADVENTURE
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909381.ts
+#EXTINF:-1 tvg-id="909380" tvg-name="AR - HULU COMEDY" group-title="|AR| HULU" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",AR - HULU COMEDY
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909380.ts
+#EXTINF:-1 tvg-id="909379" tvg-name="AR - HULU CRIME" group-title="|AR| HULU" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",AR - HULU CRIME
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909379.ts
+#EXTINF:-1 tvg-id="909378" tvg-name="AR - HULU MYSTERY" group-title="|AR| HULU" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",AR - HULU MYSTERY
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909378.ts
+#EXTINF:-1 tvg-id="909377" tvg-name="AR - HULU SCI- FI" group-title="|AR| HULU" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",AR - HULU SCI- FI
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909377.ts
+#EXTINF:-1 tvg-id="909376" tvg-name="AR - HULU FANTASY" group-title="|AR| HULU" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",AR - HULU FANTASY
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909376.ts
+#EXTINF:-1 tvg-id="909375" tvg-name="AR - HULU FRENCH" group-title="|AR| HULU" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",AR - HULU FRENCH
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909375.ts
+#EXTINF:-1 tvg-id="909374" tvg-name="AR - HULU ITALIAN" group-title="|AR| HULU" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",AR - HULU ITALIAN
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909374.ts
+#EXTINF:-1 tvg-id="909373" tvg-name="AR - HULU GERMANY" group-title="|AR| HULU" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",AR - HULU GERMANY
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909373.ts
+#EXTINF:-1 tvg-id="909372" tvg-name="AR - HULU SPANISH" group-title="|AR| HULU" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",AR - HULU SPANISH
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909372.ts
+#EXTINF:-1 tvg-id="909371" tvg-name="AR - HULU ANIMATION" group-title="|AR| HULU" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",AR - HULU ANIMATION
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909371.ts
+#EXTINF:-1 tvg-id="909573" tvg-name="##### TOD #####" group-title="|AR| TOD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",##### TOD #####
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909573.ts
+#EXTINF:-1 tvg-id="909572" tvg-name="AR - TOD UNA" group-title="|AR| TOD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",AR - TOD UNA
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909572.ts
+#EXTINF:-1 tvg-id="909571" tvg-name="AR - TOD DOS" group-title="|AR| TOD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",AR - TOD DOS
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909571.ts
+#EXTINF:-1 tvg-id="909570" tvg-name="AR - TOD TRES" group-title="|AR| TOD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",AR - TOD TRES
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909570.ts
+#EXTINF:-1 tvg-id="909569" tvg-name="AR - TOD CUATRO" group-title="|AR| TOD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",AR - TOD CUATRO
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909569.ts
+#EXTINF:-1 tvg-id="909568" tvg-name="AR - TOD CINCO" group-title="|AR| TOD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",AR - TOD CINCO
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909568.ts
+#EXTINF:-1 tvg-id="909567" tvg-name="AR - TOD SEIS" group-title="|AR| TOD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",AR - TOD SEIS
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909567.ts
+#EXTINF:-1 tvg-id="909566" tvg-name="AR - TOD SIETE" group-title="|AR| TOD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",AR - TOD SIETE
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909566.ts
+#EXTINF:-1 tvg-id="909565" tvg-name="AR - TOD OCHO" group-title="|AR| TOD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",AR - TOD OCHO
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909565.ts
+#EXTINF:-1 tvg-id="909564" tvg-name="AR - TOD NUEVE" group-title="|AR| TOD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",AR - TOD NUEVE
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909564.ts
+#EXTINF:-1 tvg-id="909563" tvg-name="AR - TOD DIEZ" group-title="|AR| TOD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",AR - TOD DIEZ
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909563.ts
+#EXTINF:-1 tvg-id="909562" tvg-name="AR - TDO ONCE" group-title="|AR| TOD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",AR - TDO ONCE
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909562.ts
+#EXTINF:-1 tvg-id="909561" tvg-name="AR - TOD TRECE" group-title="|AR| TOD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",AR - TOD TRECE
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909561.ts
+#EXTINF:-1 tvg-id="909560" tvg-name="AR - TOD CATORCE" group-title="|AR| TOD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",AR - TOD CATORCE
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909560.ts
+#EXTINF:-1 tvg-id="909559" tvg-name="AR - TOD QUINCE" group-title="|AR| TOD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",AR - TOD QUINCE
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909559.ts
+#EXTINF:-1 tvg-id="909558" tvg-name="AR - TOD DIECISÉIS" group-title="|AR| TOD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",AR - TOD DIECISÉIS
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909558.ts
+#EXTINF:-1 tvg-id="909557" tvg-name="AR - TOD DIECISIETE" group-title="|AR| TOD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",AR - TOD DIECISIETE
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909557.ts
+#EXTINF:-1 tvg-id="909556" tvg-name="AR - TOD DIECIOCHO" group-title="|AR| TOD" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",AR - TOD DIECIOCHO
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909556.ts
+#EXTINF:-1 tvg-id="909978" tvg-name="##### VIVO #####" group-title="|AR| VIVO" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",##### VIVO #####
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909978.ts
+#EXTINF:-1 tvg-id="1006838" tvg-name="AR - VIVO LIVE HD" group-title="|AR| VIVO" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",AR - VIVO LIVE HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/1006838.ts
+#EXTINF:-1 tvg-id="909977" tvg-name="AR - VIVO CINEMA HD" group-title="|AR| VIVO" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",AR - VIVO CINEMA HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909977.ts
+#EXTINF:-1 tvg-id="909976" tvg-name="AR - VIVO CLUB HD" group-title="|AR| VIVO" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",AR - VIVO CLUB HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909976.ts
+#EXTINF:-1 tvg-id="909975" tvg-name="AR - VIVO OSCAR HD" group-title="|AR| VIVO" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",AR - VIVO OSCAR HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909975.ts
+#EXTINF:-1 tvg-id="909974" tvg-name="AR - VIVO SHOWTIME HD" group-title="|AR| VIVO" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",AR - VIVO SHOWTIME HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909974.ts
+#EXTINF:-1 tvg-id="909973" tvg-name="AR - VIVO PLUS + HD" group-title="|AR| VIVO" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",AR - VIVO PLUS + HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909973.ts
+#EXTINF:-1 tvg-id="909972" tvg-name="AR - VIVO MOVIES HD" group-title="|AR| VIVO" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",AR - VIVO MOVIES HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909972.ts
+#EXTINF:-1 tvg-id="909971" tvg-name="AR - VIVO CENTRAL HD" group-title="|AR| VIVO" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",AR - VIVO CENTRAL HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909971.ts
+#EXTINF:-1 tvg-id="909970" tvg-name="AR - VIVO WAR TIME HD" group-title="|AR| VIVO" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",AR - VIVO WAR TIME HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909970.ts
+#EXTINF:-1 tvg-id="909969" tvg-name="AR - VIVO WAR TIME GALAXY HD" group-title="|AR| VIVO" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",AR - VIVO WAR TIME GALAXY HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909969.ts
+#EXTINF:-1 tvg-id="909968" tvg-name="AR - VIVO ONLINE HD" group-title="|AR| VIVO" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",AR - VIVO ONLINE HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909968.ts
+#EXTINF:-1 tvg-id="909967" tvg-name="AR - VIVO CRYSTAL HD" group-title="|AR| VIVO" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",AR - VIVO CRYSTAL HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909967.ts
+#EXTINF:-1 tvg-id="909966" tvg-name="AR - VIVO WIPEOUT XTRA 4K" group-title="|AR| VIVO" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",AR - VIVO WIPEOUT XTRA 4K
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909966.ts
+#EXTINF:-1 tvg-id="909965" tvg-name="AR - VIVO PEOPLE ARE AWESOME HD" group-title="|AR| VIVO" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",AR - VIVO PEOPLE ARE AWESOME HD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/909965.ts
+#EXTINF:-1 tvg-id="458290" tvg-name="##### AR - BOX OFFICE #####" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",##### AR - BOX OFFICE #####
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458290.ts
+#EXTINF:-1 tvg-id="458291" tvg-name="AR - BOX OFFICE 1 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 1 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458291.ts
+#EXTINF:-1 tvg-id="458292" tvg-name="AR - BOX OFFICE 2 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 2 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458292.ts
+#EXTINF:-1 tvg-id="458293" tvg-name="AR - BOX OFFICE 3 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 3 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458293.ts
+#EXTINF:-1 tvg-id="458294" tvg-name="AR - BOX OFFICE 4 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 4 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458294.ts
+#EXTINF:-1 tvg-id="458295" tvg-name="AR - BOX OFFICE 5 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 5 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458295.ts
+#EXTINF:-1 tvg-id="458296" tvg-name="AR - BOX OFFICE 6 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 6 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458296.ts
+#EXTINF:-1 tvg-id="458297" tvg-name="AR - BOX OFFICE 7 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 7 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458297.ts
+#EXTINF:-1 tvg-id="458298" tvg-name="AR - BOX OFFICE 8 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 8 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458298.ts
+#EXTINF:-1 tvg-id="458299" tvg-name="AR - BOX OFFICE 9 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 9 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458299.ts
+#EXTINF:-1 tvg-id="458300" tvg-name="AR - BOX OFFICE 10 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 10 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458300.ts
+#EXTINF:-1 tvg-id="458301" tvg-name="AR - BOX OFFICE 11 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 11 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458301.ts
+#EXTINF:-1 tvg-id="458302" tvg-name="AR - BOX OFFICE 12 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 12 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458302.ts
+#EXTINF:-1 tvg-id="458303" tvg-name="AR - BOX OFFICE 13 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 13 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458303.ts
+#EXTINF:-1 tvg-id="458304" tvg-name="AR - BOX OFFICE 14 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 14 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458304.ts
+#EXTINF:-1 tvg-id="458305" tvg-name="AR - BOX OFFICE 15 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 15 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458305.ts
+#EXTINF:-1 tvg-id="458306" tvg-name="AR - BOX OFFICE 16 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 16 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458306.ts
+#EXTINF:-1 tvg-id="458307" tvg-name="AR - BOX OFFICE 17 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 17 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458307.ts
+#EXTINF:-1 tvg-id="458308" tvg-name="AR - BOX OFFICE 18 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 18 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458308.ts
+#EXTINF:-1 tvg-id="458309" tvg-name="AR - BOX OFFICE 19 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 19 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458309.ts
+#EXTINF:-1 tvg-id="458310" tvg-name="AR - BOX OFFICE 20 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 20 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458310.ts
+#EXTINF:-1 tvg-id="458311" tvg-name="AR - BOX OFFICE 21 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 21 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458311.ts
+#EXTINF:-1 tvg-id="458312" tvg-name="AR - BOX OFFICE 22 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 22 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458312.ts
+#EXTINF:-1 tvg-id="458313" tvg-name="AR - BOX OFFICE 23 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 23 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458313.ts
+#EXTINF:-1 tvg-id="458314" tvg-name="AR - BOX OFFICE 24 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 24 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458314.ts
+#EXTINF:-1 tvg-id="458315" tvg-name="AR - BOX OFFICE 25 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 25 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458315.ts
+#EXTINF:-1 tvg-id="458316" tvg-name="AR - BOX OFFICE 26 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 26 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458316.ts
+#EXTINF:-1 tvg-id="458317" tvg-name="AR - BOX OFFICE 27 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 27 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458317.ts
+#EXTINF:-1 tvg-id="458318" tvg-name="AR - BOX OFFICE 28 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 28 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458318.ts
+#EXTINF:-1 tvg-id="458319" tvg-name="AR - BOX OFFICE 29 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 29 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458319.ts
+#EXTINF:-1 tvg-id="458320" tvg-name="AR - BOX OFFICE 30 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 30 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458320.ts
+#EXTINF:-1 tvg-id="458321" tvg-name="AR - BOX OFFICE 31 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 31 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458321.ts
+#EXTINF:-1 tvg-id="458322" tvg-name="AR - BOX OFFICE 32 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 32 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458322.ts
+#EXTINF:-1 tvg-id="458323" tvg-name="AR - BOX OFFICE 33 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 33 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458323.ts
+#EXTINF:-1 tvg-id="458324" tvg-name="AR - BOX OFFICE 34 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 34 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458324.ts
+#EXTINF:-1 tvg-id="458325" tvg-name="AR - BOX OFFICE 35 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 35 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458325.ts
+#EXTINF:-1 tvg-id="458326" tvg-name="AR - BOX OFFICE 36 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 36 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458326.ts
+#EXTINF:-1 tvg-id="458327" tvg-name="AR - BOX OFFICE 37 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 37 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458327.ts
+#EXTINF:-1 tvg-id="458328" tvg-name="AR - BOX OFFICE 38 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 38 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458328.ts
+#EXTINF:-1 tvg-id="458329" tvg-name="AR - BOX OFFICE 39 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 39 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458329.ts
+#EXTINF:-1 tvg-id="458330" tvg-name="AR - BOX OFFICE 40 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 40 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458330.ts
+#EXTINF:-1 tvg-id="458331" tvg-name="AR - BOX OFFICE 41 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 41 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458331.ts
+#EXTINF:-1 tvg-id="458332" tvg-name="AR - BOX OFFICE 42 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 42 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458332.ts
+#EXTINF:-1 tvg-id="458333" tvg-name="AR - BOX OFFICE 43 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 43 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458333.ts
+#EXTINF:-1 tvg-id="458334" tvg-name="AR - BOX OFFICE 44 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 44 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458334.ts
+#EXTINF:-1 tvg-id="458335" tvg-name="AR - BOX OFFICE 45 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 45 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458335.ts
+#EXTINF:-1 tvg-id="458336" tvg-name="AR - BOX OFFICE 46 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 46 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458336.ts
+#EXTINF:-1 tvg-id="458337" tvg-name="AR - BOX OFFICE 47 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 47 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458337.ts
+#EXTINF:-1 tvg-id="458338" tvg-name="AR - BOX OFFICE 48 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 48 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458338.ts
+#EXTINF:-1 tvg-id="458339" tvg-name="AR - BOX OFFICE 49 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 49 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458339.ts
+#EXTINF:-1 tvg-id="458340" tvg-name="AR - BOX OFFICE 50 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 50 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458340.ts
+#EXTINF:-1 tvg-id="458341" tvg-name="AR - BOX OFFICE 51 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 51 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458341.ts
+#EXTINF:-1 tvg-id="458342" tvg-name="AR - BOX OFFICE 52 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 52 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458342.ts
+#EXTINF:-1 tvg-id="458343" tvg-name="AR - BOX OFFICE 53 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 53 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458343.ts
+#EXTINF:-1 tvg-id="458344" tvg-name="AR - BOX OFFICE 54 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 54 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458344.ts
+#EXTINF:-1 tvg-id="458345" tvg-name="AR - BOX OFFICE 55 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 55 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458345.ts
+#EXTINF:-1 tvg-id="458346" tvg-name="AR - BOX OFFICE 56 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 56 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458346.ts
+#EXTINF:-1 tvg-id="458347" tvg-name="AR - BOX OFFICE 57 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 57 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458347.ts
+#EXTINF:-1 tvg-id="458348" tvg-name="AR - BOX OFFICE 58 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 58 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458348.ts
+#EXTINF:-1 tvg-id="458349" tvg-name="AR - BOX OFFICE 59 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 59 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458349.ts
+#EXTINF:-1 tvg-id="458350" tvg-name="AR - BOX OFFICE 60 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 60 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458350.ts
+#EXTINF:-1 tvg-id="458351" tvg-name="AR - BOX OFFICE 61 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 61 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458351.ts
+#EXTINF:-1 tvg-id="458352" tvg-name="AR - BOX OFFICE 62 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 62 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458352.ts
+#EXTINF:-1 tvg-id="458353" tvg-name="AR - BOX OFFICE 63 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 63 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458353.ts
+#EXTINF:-1 tvg-id="458354" tvg-name="AR - BOX OFFICE 64 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 64 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458354.ts
+#EXTINF:-1 tvg-id="458355" tvg-name="AR - BOX OFFICE 65 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 65 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458355.ts
+#EXTINF:-1 tvg-id="458356" tvg-name="AR - BOX OFFICE 66 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 66 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458356.ts
+#EXTINF:-1 tvg-id="458357" tvg-name="AR - BOX OFFICE 67 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 67 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458357.ts
+#EXTINF:-1 tvg-id="458358" tvg-name="AR - BOX OFFICE 68 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 68 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458358.ts
+#EXTINF:-1 tvg-id="458359" tvg-name="AR - BOX OFFICE 69 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 69 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458359.ts
+#EXTINF:-1 tvg-id="458360" tvg-name="AR - BOX OFFICE 70 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 70 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458360.ts
+#EXTINF:-1 tvg-id="458361" tvg-name="AR - BOX OFFICE 71 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 71 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458361.ts
+#EXTINF:-1 tvg-id="458362" tvg-name="AR - BOX OFFICE 72 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 72 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458362.ts
+#EXTINF:-1 tvg-id="458363" tvg-name="AR - BOX OFFICE 73 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 73 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458363.ts
+#EXTINF:-1 tvg-id="458364" tvg-name="AR - BOX OFFICE 74 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 74 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458364.ts
+#EXTINF:-1 tvg-id="458365" tvg-name="AR - BOX OFFICE 75 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 75 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458365.ts
+#EXTINF:-1 tvg-id="458366" tvg-name="AR - BOX OFFICE 76 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 76 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458366.ts
+#EXTINF:-1 tvg-id="458367" tvg-name="AR - BOX OFFICE 77 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 77 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458367.ts
+#EXTINF:-1 tvg-id="458368" tvg-name="AR - BOX OFFICE 78 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 78 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458368.ts
+#EXTINF:-1 tvg-id="458369" tvg-name="AR - BOX OFFICE 79 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 79 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458369.ts
+#EXTINF:-1 tvg-id="458370" tvg-name="AR - BOX OFFICE 80 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 80 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458370.ts
+#EXTINF:-1 tvg-id="458371" tvg-name="AR - BOX OFFICE 81 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 81 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458371.ts
+#EXTINF:-1 tvg-id="458372" tvg-name="AR - BOX OFFICE 82 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 82 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458372.ts
+#EXTINF:-1 tvg-id="458373" tvg-name="AR - BOX OFFICE 83 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 83 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458373.ts
+#EXTINF:-1 tvg-id="458374" tvg-name="AR - BOX OFFICE 84 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 84 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458374.ts
+#EXTINF:-1 tvg-id="458375" tvg-name="AR - BOX OFFICE 85 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 85 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458375.ts
+#EXTINF:-1 tvg-id="458376" tvg-name="AR - BOX OFFICE 86 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 86 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458376.ts
+#EXTINF:-1 tvg-id="458377" tvg-name="AR - BOX OFFICE 87 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 87 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458377.ts
+#EXTINF:-1 tvg-id="458378" tvg-name="AR - BOX OFFICE 88 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 88 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458378.ts
+#EXTINF:-1 tvg-id="458379" tvg-name="AR - BOX OFFICE 89 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 89 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458379.ts
+#EXTINF:-1 tvg-id="458380" tvg-name="AR - BOX OFFICE 90 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 90 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458380.ts
+#EXTINF:-1 tvg-id="458381" tvg-name="AR - BOX OFFICE 91 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 91 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458381.ts
+#EXTINF:-1 tvg-id="458382" tvg-name="AR - BOX OFFICE 92 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 92 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458382.ts
+#EXTINF:-1 tvg-id="458383" tvg-name="AR - BOX OFFICE 93 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 93 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458383.ts
+#EXTINF:-1 tvg-id="458384" tvg-name="AR - BOX OFFICE 94 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 94 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458384.ts
+#EXTINF:-1 tvg-id="458385" tvg-name="AR - BOX OFFICE 95 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 95 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458385.ts
+#EXTINF:-1 tvg-id="458386" tvg-name="AR - BOX OFFICE 96 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 96 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458386.ts
+#EXTINF:-1 tvg-id="458387" tvg-name="AR - BOX OFFICE 97 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 97 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458387.ts
+#EXTINF:-1 tvg-id="458388" tvg-name="AR - BOX OFFICE 98 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 98 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458388.ts
+#EXTINF:-1 tvg-id="458389" tvg-name="AR - BOX OFFICE 99 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 99 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458389.ts
+#EXTINF:-1 tvg-id="458390" tvg-name="AR - BOX OFFICE 100 FHD" group-title="|AR| PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",AR - BOX OFFICE 100 FHD
+http://tv24.site:80/live/943ff4e380/5cafbf676717/458390.ts
+EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="beIN Sports XSTRA 3 SD" group-title="|AR| ✪ BEIN SPORT SD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png",beIN Sports XSTRA 3 SD
 http://480590211101.elg-26.com:80/live/Lhajmohamed1/prbwvpjkak/2539.ts
 #EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="beIN SPORTS XSTRA 3 SD" group-title="|AR| ✪ BEIN SPORT SD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png",beIN SPORTS XSTRA 3 SD
 http://480590211101.elg-26.com:80/live/Lhajmohamed1/prbwvpjkak/245834.ts
