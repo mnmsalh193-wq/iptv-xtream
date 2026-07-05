@@ -1,1 +1,979 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="862854" tvg-name="##### BEIN ENTERTAINMENT #####" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862854.png",##### BEIN ENTERTAINMENT #####
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862854.ts
+#EXTINF:-1 tvg-id="862835" tvg-name="BEIN ANIMAL PLANET HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862835.png",BEIN ANIMAL PLANET HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862835.ts
+#EXTINF:-1 tvg-id="862831" tvg-name="BEIN BABY TV HD AR" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862831.png",BEIN BABY TV HD AR
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862831.ts
+#EXTINF:-1 tvg-id="862829" tvg-name="BEIN BARAEM KIDS" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862829.png",BEIN BARAEM KIDS
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862829.ts
+#EXTINF:-1 tvg-id="862837" tvg-name="BEIN BBC EARTH HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862837.png",BEIN BBC EARTH HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862837.ts
+#EXTINF:-1 tvg-id="862826" tvg-name="BEIN BOOMERANG HD AR" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862826.png",BEIN BOOMERANG HD AR
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862826.ts
+#EXTINF:-1 tvg-id="862824" tvg-name="BEIN CARTOON NETWORK HD AR" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862824.png",BEIN CARTOON NETWORK HD AR
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862824.ts
+#EXTINF:-1 tvg-id="862847" tvg-name="BEIN DRAMA HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862847.png",BEIN DRAMA HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862847.ts
+#EXTINF:-1 tvg-id="862844" tvg-name="BEIN FATAFEET HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862844.png",BEIN FATAFEET HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862844.ts
+#EXTINF:-1 tvg-id="862846" tvg-name="BEIN FOOD NETWORK HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862846.png",BEIN FOOD NETWORK HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862846.ts
+#EXTINF:-1 tvg-id="862840" tvg-name="BEIN FOX ACTION HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862840.png",BEIN FOX ACTION HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862840.ts
+#EXTINF:-1 tvg-id="862841" tvg-name="BEIN FOX MOVIES HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862841.png",BEIN FOX MOVIES HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862841.ts
+#EXTINF:-1 tvg-id="862845" tvg-name="BEIN GOURMET HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862845.png",BEIN GOURMET HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862845.ts
+#EXTINF:-1 tvg-id="862832" tvg-name="BEIN HGTV HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862832.png",BEIN HGTV HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862832.ts
+#EXTINF:-1 tvg-id="862830" tvg-name="BEIN JEEM KIDS HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862830.png",BEIN JEEM KIDS HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862830.ts
+#EXTINF:-1 tvg-id="862852" tvg-name="BEIN MOVIES ACTION 2 HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862852.png",BEIN MOVIES ACTION 2 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862852.ts
+#EXTINF:-1 tvg-id="862851" tvg-name="BEIN MOVIES DRAMA 3 HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862851.png",BEIN MOVIES DRAMA 3 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862851.ts
+#EXTINF:-1 tvg-id="862850" tvg-name="BEIN MOVIES FAMILY 4 HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862850.png",BEIN MOVIES FAMILY 4 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862850.ts
+#EXTINF:-1 tvg-id="862853" tvg-name="BEIN MOVIES PREMIERE 1 HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862853.png",BEIN MOVIES PREMIERE 1 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862853.ts
+#EXTINF:-1 tvg-id="862834" tvg-name="BEIN NATIONAL GEO HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862834.png",BEIN NATIONAL GEO HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862834.ts
+#EXTINF:-1 tvg-id="862833" tvg-name="BEIN NATIONAL GEO WILD HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862833.png",BEIN NATIONAL GEO WILD HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862833.ts
+#EXTINF:-1 tvg-id="862849" tvg-name="BEIN SERIES 1 HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862849.png",BEIN SERIES 1 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862849.ts
+#EXTINF:-1 tvg-id="862848" tvg-name="BEIN SERIES 2 HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/bein/862848.png",BEIN SERIES 2 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862848.ts
+#EXTINF:-1 tvg-id="862838" tvg-name="BEIN STAR WORLD HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862838.png",BEIN STAR WORLD HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862838.ts
+#EXTINF:-1 tvg-id="862836" tvg-name="BEIN TRAVEL HD" group-title="[AR] BEIN ENTERTAINMENT" tvg-logo="http://51.158.145.100/picons/logos/arabic/862836.png",BEIN TRAVEL HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/862836.ts
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="[AR] MBC 1" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/250039.png",[AR] MBC 1
+http://line.netrolive.com:80/live/26457b4f/26bc0793/250039.ts
+#EXTINF:-1 tvg-id="MBC2En.ae" tvg-name="[AR] MBC 2" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/250040.png",[AR] MBC 2
+http://line.netrolive.com:80/live/26457b4f/26bc0793/250040.ts
+#EXTINF:-1 tvg-id="MBC3En.ae" tvg-name="[AR] MBC 3" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/250041.png",[AR] MBC 3
+http://line.netrolive.com:80/live/26457b4f/26bc0793/250041.ts
+#EXTINF:-1 tvg-id="MBC4En.sa" tvg-name="[AR] MBC 4" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/250042.png",[AR] MBC 4
+http://line.netrolive.com:80/live/26457b4f/26bc0793/250042.ts
+#EXTINF:-1 tvg-id="MBC5En.ae" tvg-name="[AR] MBC 5 ?" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/250043.png",[AR] MBC 5 ?
+http://line.netrolive.com:80/live/26457b4f/26bc0793/250043.ts
+#EXTINF:-1 tvg-id="MBCDramaEn.ae" tvg-name="[AR] MBC DRAMA" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/250044.png",[AR] MBC DRAMA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/250044.ts
+#EXTINF:-1 tvg-id="MBCDramaEn.ae" tvg-name="[AR] MBC DRAMA SD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/689593.png",[AR] MBC DRAMA SD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/689593.ts
+#EXTINF:-1 tvg-id="MBCIraqEn.iq" tvg-name="[AR] MBC IRAQ" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/250048.png",[AR] MBC IRAQ
+http://line.netrolive.com:80/live/26457b4f/26bc0793/250048.ts
+#EXTINF:-1 tvg-id="MBCActionEn.sa" tvg-name="[AR] MBC ACTION" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/250046.png",[AR] MBC ACTION
+http://line.netrolive.com:80/live/26457b4f/26bc0793/250046.ts
+#EXTINF:-1 tvg-id="MBCMaxEn.ae" tvg-name="[AR] MBC MAX" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/250045.png",[AR] MBC MAX
+http://line.netrolive.com:80/live/26457b4f/26bc0793/250045.ts
+#EXTINF:-1 tvg-id="MBCBollywoodEn.sa" tvg-name="[AR] MBC BOLLYWOOD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/250047.png",[AR] MBC BOLLYWOOD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/250047.ts
+#EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="[AR] MBC MASR ?" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/250049.png",[AR] MBC MASR ?
+http://line.netrolive.com:80/live/26457b4f/26bc0793/250049.ts
+#EXTINF:-1 tvg-id="MBCMasr2En.eg" tvg-name="[AR] MBC MASR 2 ?" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/250050.png",[AR] MBC MASR 2 ?
+http://line.netrolive.com:80/live/26457b4f/26bc0793/250050.ts
+#EXTINF:-1 tvg-id="MBC1En.ae" tvg-name="[AR] MBC 1 UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/457188.png",[AR] MBC 1 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/457188.ts
+#EXTINF:-1 tvg-id="MBC2En.ae" tvg-name="[AR] MBC 2 UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/457187.png",[AR] MBC 2 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/457187.ts
+#EXTINF:-1 tvg-id="MBC3En.ae" tvg-name="[AR] MBC 3 UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/457186.png",[AR] MBC 3 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/457186.ts
+#EXTINF:-1 tvg-id="MBC4En.sa" tvg-name="[AR] MBC 4 UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/457185.png",[AR] MBC 4 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/457185.ts
+#EXTINF:-1 tvg-id="MBC5En.ae" tvg-name="[AR] MBC 5 UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/457184.png",[AR] MBC 5 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/457184.ts
+#EXTINF:-1 tvg-id="657001" tvg-name="[AR] MBC ELIFE" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/657001.png",[AR] MBC ELIFE
+http://line.netrolive.com:80/live/26457b4f/26bc0793/657001.ts
+#EXTINF:-1 tvg-id="588347" tvg-name="[AR] MBC+ POWER UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/588347.png",[AR] MBC+ POWER UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/588347.ts
+#EXTINF:-1 tvg-id="593517" tvg-name="[AR] MBC+ POWER SPORT UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/593517.png",[AR] MBC+ POWER SPORT UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/593517.ts
+#EXTINF:-1 tvg-id="MBCActionEn.sa" tvg-name="[AR] MBC ACTION UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/457180.png",[AR] MBC ACTION UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/457180.ts
+#EXTINF:-1 tvg-id="MBCBollywoodEn.sa" tvg-name="[AR] MBC BOLLYWOOD UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/457179.png",[AR] MBC BOLLYWOOD UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/457179.ts
+#EXTINF:-1 tvg-id="MBCDramaEn.ae" tvg-name="[AR] MBC DRAMA UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/457183.png",[AR] MBC DRAMA UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/457183.ts
+#EXTINF:-1 tvg-id="MBCDramaPlusEn.ae" tvg-name="[AR] MBC DRAMA PLUS UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/457182.png",[AR] MBC DRAMA PLUS UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/457182.ts
+#EXTINF:-1 tvg-id="457173" tvg-name="[AR] MBC FM UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/457173.png",[AR] MBC FM UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/457173.ts
+#EXTINF:-1 tvg-id="250051" tvg-name="[AR] MBC FM" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/250051.png",[AR] MBC FM
+http://line.netrolive.com:80/live/26457b4f/26bc0793/250051.ts
+#EXTINF:-1 tvg-id="MBCIraqEn.iq" tvg-name="[AR] MBC IRAQ UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/457178.png",[AR] MBC IRAQ UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/457178.ts
+#EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="[AR] MBC MASER UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/457177.png",[AR] MBC MASER UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/457177.ts
+#EXTINF:-1 tvg-id="MBCMasr2En.eg" tvg-name="[AR] MBC MASER 2 UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/457176.png",[AR] MBC MASER 2 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/457176.ts
+#EXTINF:-1 tvg-id="MBCMaxEn.ae" tvg-name="[AR] MBC MAX UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/457181.png",[AR] MBC MAX UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/457181.ts
+#EXTINF:-1 tvg-id="457174" tvg-name="[AR] MBC PANORAMA FM UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/457174.png",[AR] MBC PANORAMA FM UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/457174.ts
+#EXTINF:-1 tvg-id="556858" tvg-name="[AR] MBC VARIETY PLUS UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/556858.png",[AR] MBC VARIETY PLUS UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/556858.ts
+#EXTINF:-1 tvg-id="457175" tvg-name="[AR] MBC PERSIA UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/457175.png",[AR] MBC PERSIA UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/457175.ts
+#EXTINF:-1 tvg-id="HekayatEn.sa" tvg-name="[AR] ART HEKAYAT 1 HD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/559857.png",[AR] ART HEKAYAT 1 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/559857.ts
+#EXTINF:-1 tvg-id="Hekayat2En.sa" tvg-name="[AR] ART HEKAYAT 2 HD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/559856.png",[AR] ART HEKAYAT 2 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/559856.ts
+#EXTINF:-1 tvg-id="ARTCinemaEn.sa" tvg-name="[AR] ART CINEMA" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/559855.png",[AR] ART CINEMA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/559855.ts
+#EXTINF:-1 tvg-id="ARTAflam2En.sa" tvg-name="[AR] ART AFLAM 2" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/559854.png",[AR] ART AFLAM 2
+http://line.netrolive.com:80/live/26457b4f/26bc0793/559854.ts
+#EXTINF:-1 tvg-id="ARTAflam1En.sa" tvg-name="[AR] ART AFLAM 1" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/559853.png",[AR] ART AFLAM 1
+http://line.netrolive.com:80/live/26457b4f/26bc0793/559853.ts
+#EXTINF:-1 tvg-id="593686" tvg-name="[AR] WEYYAK DRAMA UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/593686.png",[AR] WEYYAK DRAMA UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/593686.ts
+#EXTINF:-1 tvg-id="593685" tvg-name="[AR] WEYYAK ACTION UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/593685.png",[AR] WEYYAK ACTION UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/593685.ts
+#EXTINF:-1 tvg-id="593684" tvg-name="[AR] WEYYAK NAWAEM UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/593684.png",[AR] WEYYAK NAWAEM UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/593684.ts
+#EXTINF:-1 tvg-id="593683" tvg-name="[AR] WEYYAK MIX UHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/593683.png",[AR] WEYYAK MIX UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/593683.ts
+#EXTINF:-1 tvg-id="593682" tvg-name="[AR] TEN TV" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/593682.png",[AR] TEN TV
+http://line.netrolive.com:80/live/26457b4f/26bc0793/593682.ts
+#EXTINF:-1 tvg-id="784131" tvg-name="[AR] SHAHID TAREEKHI HD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784131.png",[AR] SHAHID TAREEKHI HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784131.ts
+#EXTINF:-1 tvg-id="784130" tvg-name="[AR] SHAHID TAREEKHI FHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784130.png",[AR] SHAHID TAREEKHI FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784130.ts
+#EXTINF:-1 tvg-id="784129" tvg-name="[AR] SHAHID HASSINO HD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784129.png",[AR] SHAHID HASSINO HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784129.ts
+#EXTINF:-1 tvg-id="784128" tvg-name="[AR] SHAHID HASSINO FHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784128.png",[AR] SHAHID HASSINO FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784128.ts
+#EXTINF:-1 tvg-id="784117" tvg-name="[AR] SHAHID AL MASRAH HD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784117.png",[AR] SHAHID AL MASRAH HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784117.ts
+#EXTINF:-1 tvg-id="784116" tvg-name="[AR] SHAHID AL NOJOUM HD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784116.png",[AR] SHAHID AL NOJOUM HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784116.ts
+#EXTINF:-1 tvg-id="784115" tvg-name="[AR] SHAHID AL NOJOUM FHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784115.png",[AR] SHAHID AL NOJOUM FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784115.ts
+#EXTINF:-1 tvg-id="784114" tvg-name="[AR] SHAHID STYLE HD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784114.png",[AR] SHAHID STYLE HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784114.ts
+#EXTINF:-1 tvg-id="784113" tvg-name="[AR] SHAHID STYLE FHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784113.png",[AR] SHAHID STYLE FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784113.ts
+#EXTINF:-1 tvg-id="784112" tvg-name="[AR] SHAHID TOP CHEF HD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784112.png",[AR] SHAHID TOP CHEF HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784112.ts
+#EXTINF:-1 tvg-id="784111" tvg-name="[AR] SHAHID KOREAN HD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784111.png",[AR] SHAHID KOREAN HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784111.ts
+#EXTINF:-1 tvg-id="784110" tvg-name="[AR] SHAHID KOREAN FHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784110.png",[AR] SHAHID KOREAN FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784110.ts
+#EXTINF:-1 tvg-id="784109" tvg-name="[AR] SHAHID BOLLYWOOD HD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784109.png",[AR] SHAHID BOLLYWOOD HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784109.ts
+#EXTINF:-1 tvg-id="784108" tvg-name="[AR] SHAHID BOLLYWOOD FHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784108.png",[AR] SHAHID BOLLYWOOD FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784108.ts
+#EXTINF:-1 tvg-id="784107" tvg-name="[AR] SHAHID AL SHAM HD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784107.png",[AR] SHAHID AL SHAM HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784107.ts
+#EXTINF:-1 tvg-id="784106" tvg-name="[AR] SHAHID AL SHAM FHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784106.png",[AR] SHAHID AL SHAM FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784106.ts
+#EXTINF:-1 tvg-id="784105" tvg-name="[AR] SHAHID AL ZAEEM HD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784105.png",[AR] SHAHID AL ZAEEM HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784105.ts
+#EXTINF:-1 tvg-id="784104" tvg-name="[AR] SHAHID AL ZAEEM FHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784104.png",[AR] SHAHID AL ZAEEM FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784104.ts
+#EXTINF:-1 tvg-id="784103" tvg-name="[AR] SHAHID COMEDY HD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784103.png",[AR] SHAHID COMEDY HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784103.ts
+#EXTINF:-1 tvg-id="784102" tvg-name="[AR] SHAHID COMEDY FHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784102.png",[AR] SHAHID COMEDY FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784102.ts
+#EXTINF:-1 tvg-id="784099" tvg-name="[AR] SHAHID MASR HD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784099.png",[AR] SHAHID MASR HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784099.ts
+#EXTINF:-1 tvg-id="784098" tvg-name="[AR] SHAHID MASR FHD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784098.png",[AR] SHAHID MASR FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784098.ts
+#EXTINF:-1 tvg-id="815889" tvg-name="[AR] SHAHID KHALIJEAH HD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/815889.png",[AR] SHAHID KHALIJEAH HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/815889.ts
+#EXTINF:-1 tvg-id="815888" tvg-name="[AR] SHAHID HISTORY HD" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/815888.png",[AR] SHAHID HISTORY HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/815888.ts
+#EXTINF:-1 tvg-id="815887" tvg-name="[AR] SHAHID KORIA 4K" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/815887.png",[AR] SHAHID KORIA 4K
+http://line.netrolive.com:80/live/26457b4f/26bc0793/815887.ts
+#EXTINF:-1 tvg-id="587715" tvg-name="[NF] NETFLIX MOVIES 1 4K" group-title="[AR] NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",[NF] NETFLIX MOVIES 1 4K
+http://line.netrolive.com:80/live/26457b4f/26bc0793/587715.ts
+#EXTINF:-1 tvg-id="587713" tvg-name="[NF] NETFLIX MOVIES 1 UHD" group-title="[AR] NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",[NF] NETFLIX MOVIES 1 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/587713.ts
+#EXTINF:-1 tvg-id="587712" tvg-name="[NF] NETFLIX MOVIES 2 UHD" group-title="[AR] NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",[NF] NETFLIX MOVIES 2 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/587712.ts
+#EXTINF:-1 tvg-id="587711" tvg-name="[NF] NETFLIX MOVIES 3 UHD" group-title="[AR] NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",[NF] NETFLIX MOVIES 3 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/587711.ts
+#EXTINF:-1 tvg-id="587710" tvg-name="[NF] NETFLIX MOVIES 4 UHD" group-title="[AR] NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",[NF] NETFLIX MOVIES 4 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/587710.ts
+#EXTINF:-1 tvg-id="587709" tvg-name="[NF] NETFLIX MOVIES 5 UHD" group-title="[AR] NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",[NF] NETFLIX MOVIES 5 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/587709.ts
+#EXTINF:-1 tvg-id="587708" tvg-name="[NF] NETFLIX MOVIES 6 UHD" group-title="[AR] NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",[NF] NETFLIX MOVIES 6 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/587708.ts
+#EXTINF:-1 tvg-id="587707" tvg-name="[NF] NETFLIX MOVIES 7 UHD" group-title="[AR] NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",[NF] NETFLIX MOVIES 7 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/587707.ts
+#EXTINF:-1 tvg-id="587706" tvg-name="[NF] NETFLIX MOVIES 8 UHD" group-title="[AR] NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",[NF] NETFLIX MOVIES 8 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/587706.ts
+#EXTINF:-1 tvg-id="587705" tvg-name="[NF] NETFLIX MOVIES 9 UHD" group-title="[AR] NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",[NF] NETFLIX MOVIES 9 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/587705.ts
+#EXTINF:-1 tvg-id="587704" tvg-name="[NF] NETFLIX MOVIES 10 UHD" group-title="[AR] NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",[NF] NETFLIX MOVIES 10 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/587704.ts
+#EXTINF:-1 tvg-id="1116394" tvg-name="[GBX] REELPX UNLIMITED" group-title="[AR] GOBX GROUP" tvg-logo="http://103.176.90.118/picons/logos/logos/REELPX-UNLIMITED.png",[GBX] REELPX UNLIMITED
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1116394.ts
+#EXTINF:-1 tvg-id="1116393" tvg-name="[GBX] REELPX FAMILY" group-title="[AR] GOBX GROUP" tvg-logo="http://103.176.90.118/picons/logos/logos/REELPX-FAMILY.png",[GBX] REELPX FAMILY
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1116393.ts
+#EXTINF:-1 tvg-id="1116392" tvg-name="[GBX] REELPX COMEDY" group-title="[AR] GOBX GROUP" tvg-logo="http://103.176.90.118/picons/logos/logos/REELPX-COMEDY.png",[GBX] REELPX COMEDY
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1116392.ts
+#EXTINF:-1 tvg-id="1116379" tvg-name="[GBX] REELPX ACTION" group-title="[AR] GOBX GROUP" tvg-logo="http://103.176.90.118/picons/logos/logos/REELPX-ACTION.png",[GBX] REELPX ACTION
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1116379.ts
+#EXTINF:-1 tvg-id="1116378" tvg-name="[GBX] REELPX CRIME" group-title="[AR] GOBX GROUP" tvg-logo="http://103.176.90.118/picons/logos/logos/REELPX-CRIME.png",[GBX] REELPX CRIME
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1116378.ts
+#EXTINF:-1 tvg-id="602745" tvg-name="[GBX] MBC 1 UHD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc1.png",[GBX] MBC 1 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602745.ts
+#EXTINF:-1 tvg-id="602744" tvg-name="[GBX] MBC 1 HD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc1.png",[GBX] MBC 1 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602744.ts
+#EXTINF:-1 tvg-id="602743" tvg-name="[GBX] MBC 2 UHD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc2.png",[GBX] MBC 2 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602743.ts
+#EXTINF:-1 tvg-id="602742" tvg-name="[GBX] MBC 2 HD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc2.png",[GBX] MBC 2 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602742.ts
+#EXTINF:-1 tvg-id="602741" tvg-name="[GBX] MBC 3 UHD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc3.png",[GBX] MBC 3 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602741.ts
+#EXTINF:-1 tvg-id="602740" tvg-name="[GBX] MBC 3 HD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc3.png",[GBX] MBC 3 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602740.ts
+#EXTINF:-1 tvg-id="602739" tvg-name="[GBX] MBC 4 UHD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc4.png",[GBX] MBC 4 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602739.ts
+#EXTINF:-1 tvg-id="602738" tvg-name="[GBX] MBC 4 HD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc4.png",[GBX] MBC 4 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602738.ts
+#EXTINF:-1 tvg-id="602737" tvg-name="[GBX] MBC 5 UHD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc5.png",[GBX] MBC 5 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602737.ts
+#EXTINF:-1 tvg-id="602736" tvg-name="[GBX] MBC 5 HD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbc5.png",[GBX] MBC 5 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602736.ts
+#EXTINF:-1 tvg-id="602735" tvg-name="[GBX] MBC DRAMA UHD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbcdrama.png",[GBX] MBC DRAMA UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602735.ts
+#EXTINF:-1 tvg-id="602734" tvg-name="[GBX] MBC DRAMA HD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbcdrama.png",[GBX] MBC DRAMA HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602734.ts
+#EXTINF:-1 tvg-id="602733" tvg-name="[GBX] MBC ACTION UHD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbcaction.png",[GBX] MBC ACTION UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602733.ts
+#EXTINF:-1 tvg-id="602732" tvg-name="[GBX] MBC ACTION HD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbcaction.png",[GBX] MBC ACTION HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602732.ts
+#EXTINF:-1 tvg-id="602731" tvg-name="[GBX] MBC MASR 1 UHD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbcmasr.png",[GBX] MBC MASR 1 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602731.ts
+#EXTINF:-1 tvg-id="602730" tvg-name="[GBX] MBC MASR 1 HD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbcmasr.png",[GBX] MBC MASR 1 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602730.ts
+#EXTINF:-1 tvg-id="602729" tvg-name="[GBX] MBC MASR 2 UHD" group-title="[AR] GOBX GROUP" tvg-logo="http://51.158.145.100/picons/logos/logos/mbcmasr2.png",[GBX] MBC MASR 2 UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602729.ts
+#EXTINF:-1 tvg-id="602728" tvg-name="[GBX] MBC MASR 2 HD" group-title="[AR] GOBX GROUP" tvg-logo="http://51.158.145.100/picons/logos/logos/mbcmasr2.png",[GBX] MBC MASR 2 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602728.ts
+#EXTINF:-1 tvg-id="602727" tvg-name="[GBX] MBC IRAQ UHD" group-title="[AR] GOBX GROUP" tvg-logo="http://103.176.90.118/picons-dino/logos/MBC-IRAQ.png",[GBX] MBC IRAQ UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602727.ts
+#EXTINF:-1 tvg-id="602726" tvg-name="[GBX] MBC IRAQ HD" group-title="[AR] GOBX GROUP" tvg-logo="http://103.176.90.118/picons-dino/logos/MBC-IRAQ.png",[GBX] MBC IRAQ HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602726.ts
+#EXTINF:-1 tvg-id="602725" tvg-name="[GBX] MBC DRAMA+ UHD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbcdramaplus.png",[GBX] MBC DRAMA+ UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602725.ts
+#EXTINF:-1 tvg-id="602724" tvg-name="[GBX] MBC DRAMA+ HD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbcdramaplus.png",[GBX] MBC DRAMA+ HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602724.ts
+#EXTINF:-1 tvg-id="602723" tvg-name="[GBX] MBC VARIETY UHD" group-title="[AR] GOBX GROUP" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/MBC-VARIETY.png",[GBX] MBC VARIETY UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602723.ts
+#EXTINF:-1 tvg-id="602722" tvg-name="[GBX] MBC VARIETY HD" group-title="[AR] GOBX GROUP" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/MBC-VARIETY.png",[GBX] MBC VARIETY HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602722.ts
+#EXTINF:-1 tvg-id="602721" tvg-name="[GBX] MBC MAX HD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/mbcmax.png",[GBX] MBC MAX HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602721.ts
+#EXTINF:-1 tvg-id="602701" tvg-name="[GBX] ZOOMOO HD" group-title="[AR] GOBX GROUP" tvg-logo="https://logo.protv.cc/piconsnew/zoomoo.png",[GBX] ZOOMOO HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602701.ts
+#EXTINF:-1 tvg-id="458291" tvg-name="[AR] BOX OFFICE 1 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 1 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458291.ts
+#EXTINF:-1 tvg-id="458292" tvg-name="[AR] BOX OFFICE 2 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 2 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458292.ts
+#EXTINF:-1 tvg-id="458293" tvg-name="[AR] BOX OFFICE 3 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 3 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458293.ts
+#EXTINF:-1 tvg-id="458294" tvg-name="[AR] BOX OFFICE 4 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 4 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458294.ts
+#EXTINF:-1 tvg-id="458295" tvg-name="[AR] BOX OFFICE 5 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 5 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458295.ts
+#EXTINF:-1 tvg-id="458296" tvg-name="[AR] BOX OFFICE 6 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 6 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458296.ts
+#EXTINF:-1 tvg-id="458297" tvg-name="[AR] BOX OFFICE 7 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 7 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458297.ts
+#EXTINF:-1 tvg-id="458298" tvg-name="[AR] BOX OFFICE 8 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 8 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458298.ts
+#EXTINF:-1 tvg-id="458299" tvg-name="[AR] BOX OFFICE 9 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 9 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458299.ts
+#EXTINF:-1 tvg-id="458300" tvg-name="[AR] BOX OFFICE 10 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 10 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458300.ts
+#EXTINF:-1 tvg-id="458301" tvg-name="[AR] BOX OFFICE 11 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 11 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458301.ts
+#EXTINF:-1 tvg-id="458302" tvg-name="[AR] BOX OFFICE 12 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 12 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458302.ts
+#EXTINF:-1 tvg-id="458303" tvg-name="[AR] BOX OFFICE 13 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 13 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458303.ts
+#EXTINF:-1 tvg-id="458304" tvg-name="[AR] BOX OFFICE 14 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 14 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458304.ts
+#EXTINF:-1 tvg-id="458305" tvg-name="[AR] BOX OFFICE 15 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 15 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458305.ts
+#EXTINF:-1 tvg-id="458306" tvg-name="[AR] BOX OFFICE 16 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 16 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458306.ts
+#EXTINF:-1 tvg-id="458307" tvg-name="[AR] BOX OFFICE 17 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 17 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458307.ts
+#EXTINF:-1 tvg-id="458308" tvg-name="[AR] BOX OFFICE 18 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 18 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458308.ts
+#EXTINF:-1 tvg-id="458309" tvg-name="[AR] BOX OFFICE 19 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 19 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458309.ts
+#EXTINF:-1 tvg-id="458310" tvg-name="[AR] BOX OFFICE 20 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 20 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458310.ts
+#EXTINF:-1 tvg-id="458311" tvg-name="[AR] BOX OFFICE 21 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 21 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458311.ts
+#EXTINF:-1 tvg-id="458312" tvg-name="[AR] BOX OFFICE 22 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 22 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458312.ts
+#EXTINF:-1 tvg-id="458313" tvg-name="[AR] BOX OFFICE 23 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 23 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458313.ts
+#EXTINF:-1 tvg-id="458314" tvg-name="[AR] BOX OFFICE 24 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 24 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458314.ts
+#EXTINF:-1 tvg-id="458315" tvg-name="[AR] BOX OFFICE 25 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 25 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458315.ts
+#EXTINF:-1 tvg-id="458316" tvg-name="[AR] BOX OFFICE 26 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 26 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458316.ts
+#EXTINF:-1 tvg-id="458317" tvg-name="[AR] BOX OFFICE 27 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 27 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458317.ts
+#EXTINF:-1 tvg-id="458318" tvg-name="[AR] BOX OFFICE 28 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 28 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458318.ts
+#EXTINF:-1 tvg-id="458319" tvg-name="[AR] BOX OFFICE 29 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 29 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458319.ts
+#EXTINF:-1 tvg-id="458320" tvg-name="[AR] BOX OFFICE 30 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 30 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458320.ts
+#EXTINF:-1 tvg-id="458321" tvg-name="[AR] BOX OFFICE 31 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 31 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458321.ts
+#EXTINF:-1 tvg-id="458322" tvg-name="[AR] BOX OFFICE 32 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 32 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458322.ts
+#EXTINF:-1 tvg-id="458323" tvg-name="[AR] BOX OFFICE 33 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 33 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458323.ts
+#EXTINF:-1 tvg-id="458324" tvg-name="[AR] BOX OFFICE 34 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 34 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458324.ts
+#EXTINF:-1 tvg-id="458325" tvg-name="[AR] BOX OFFICE 35 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 35 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458325.ts
+#EXTINF:-1 tvg-id="458326" tvg-name="[AR] BOX OFFICE 36 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 36 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458326.ts
+#EXTINF:-1 tvg-id="458327" tvg-name="[AR] BOX OFFICE 37 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 37 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458327.ts
+#EXTINF:-1 tvg-id="458328" tvg-name="[AR] BOX OFFICE 38 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 38 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458328.ts
+#EXTINF:-1 tvg-id="458329" tvg-name="[AR] BOX OFFICE 39 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 39 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458329.ts
+#EXTINF:-1 tvg-id="458330" tvg-name="[AR] BOX OFFICE 40 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 40 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458330.ts
+#EXTINF:-1 tvg-id="458331" tvg-name="[AR] BOX OFFICE 41 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 41 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458331.ts
+#EXTINF:-1 tvg-id="458332" tvg-name="[AR] BOX OFFICE 42 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 42 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458332.ts
+#EXTINF:-1 tvg-id="458333" tvg-name="[AR] BOX OFFICE 43 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 43 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458333.ts
+#EXTINF:-1 tvg-id="458334" tvg-name="[AR] BOX OFFICE 44 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 44 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458334.ts
+#EXTINF:-1 tvg-id="458335" tvg-name="[AR] BOX OFFICE 45 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 45 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458335.ts
+#EXTINF:-1 tvg-id="458336" tvg-name="[AR] BOX OFFICE 46 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 46 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458336.ts
+#EXTINF:-1 tvg-id="458337" tvg-name="[AR] BOX OFFICE 47 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 47 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458337.ts
+#EXTINF:-1 tvg-id="458338" tvg-name="[AR] BOX OFFICE 48 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 48 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458338.ts
+#EXTINF:-1 tvg-id="458339" tvg-name="[AR] BOX OFFICE 49 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 49 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458339.ts
+#EXTINF:-1 tvg-id="458340" tvg-name="[AR] BOX OFFICE 50 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 50 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458340.ts
+#EXTINF:-1 tvg-id="458341" tvg-name="[AR] BOX OFFICE 51 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 51 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458341.ts
+#EXTINF:-1 tvg-id="458342" tvg-name="[AR] BOX OFFICE 52 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 52 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458342.ts
+#EXTINF:-1 tvg-id="458343" tvg-name="[AR] BOX OFFICE 53 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 53 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458343.ts
+#EXTINF:-1 tvg-id="458344" tvg-name="[AR] BOX OFFICE 54 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 54 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458344.ts
+#EXTINF:-1 tvg-id="458345" tvg-name="[AR] BOX OFFICE 55 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 55 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458345.ts
+#EXTINF:-1 tvg-id="458346" tvg-name="[AR] BOX OFFICE 56 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 56 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458346.ts
+#EXTINF:-1 tvg-id="458347" tvg-name="[AR] BOX OFFICE 57 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 57 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458347.ts
+#EXTINF:-1 tvg-id="458348" tvg-name="[AR] BOX OFFICE 58 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 58 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458348.ts
+#EXTINF:-1 tvg-id="458349" tvg-name="[AR] BOX OFFICE 59 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 59 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458349.ts
+#EXTINF:-1 tvg-id="458350" tvg-name="[AR] BOX OFFICE 60 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 60 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458350.ts
+#EXTINF:-1 tvg-id="458351" tvg-name="[AR] BOX OFFICE 61 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 61 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458351.ts
+#EXTINF:-1 tvg-id="458352" tvg-name="[AR] BOX OFFICE 62 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 62 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458352.ts
+#EXTINF:-1 tvg-id="458353" tvg-name="[AR] BOX OFFICE 63 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 63 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458353.ts
+#EXTINF:-1 tvg-id="458354" tvg-name="[AR] BOX OFFICE 64 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 64 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458354.ts
+#EXTINF:-1 tvg-id="458355" tvg-name="[AR] BOX OFFICE 65 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 65 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458355.ts
+#EXTINF:-1 tvg-id="458356" tvg-name="[AR] BOX OFFICE 66 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 66 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458356.ts
+#EXTINF:-1 tvg-id="458357" tvg-name="[AR] BOX OFFICE 67 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 67 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458357.ts
+#EXTINF:-1 tvg-id="458358" tvg-name="[AR] BOX OFFICE 68 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 68 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458358.ts
+#EXTINF:-1 tvg-id="458359" tvg-name="[AR] BOX OFFICE 69 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 69 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458359.ts
+#EXTINF:-1 tvg-id="458360" tvg-name="[AR] BOX OFFICE 70 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 70 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458360.ts
+#EXTINF:-1 tvg-id="458361" tvg-name="[AR] BOX OFFICE 71 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 71 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458361.ts
+#EXTINF:-1 tvg-id="458362" tvg-name="[AR] BOX OFFICE 72 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 72 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458362.ts
+#EXTINF:-1 tvg-id="458363" tvg-name="[AR] BOX OFFICE 73 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 73 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458363.ts
+#EXTINF:-1 tvg-id="458364" tvg-name="[AR] BOX OFFICE 74 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 74 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458364.ts
+#EXTINF:-1 tvg-id="458365" tvg-name="[AR] BOX OFFICE 75 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 75 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458365.ts
+#EXTINF:-1 tvg-id="458366" tvg-name="[AR] BOX OFFICE 76 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 76 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458366.ts
+#EXTINF:-1 tvg-id="458367" tvg-name="[AR] BOX OFFICE 77 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 77 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458367.ts
+#EXTINF:-1 tvg-id="458368" tvg-name="[AR] BOX OFFICE 78 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 78 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458368.ts
+#EXTINF:-1 tvg-id="458369" tvg-name="[AR] BOX OFFICE 79 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 79 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458369.ts
+#EXTINF:-1 tvg-id="458370" tvg-name="[AR] BOX OFFICE 80 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 80 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458370.ts
+#EXTINF:-1 tvg-id="458371" tvg-name="[AR] BOX OFFICE 81 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 81 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458371.ts
+#EXTINF:-1 tvg-id="458372" tvg-name="[AR] BOX OFFICE 82 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 82 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458372.ts
+#EXTINF:-1 tvg-id="458373" tvg-name="[AR] BOX OFFICE 83 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 83 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458373.ts
+#EXTINF:-1 tvg-id="458374" tvg-name="[AR] BOX OFFICE 84 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 84 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458374.ts
+#EXTINF:-1 tvg-id="458375" tvg-name="[AR] BOX OFFICE 85 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 85 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458375.ts
+#EXTINF:-1 tvg-id="458376" tvg-name="[AR] BOX OFFICE 86 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 86 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458376.ts
+#EXTINF:-1 tvg-id="458377" tvg-name="[AR] BOX OFFICE 87 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 87 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458377.ts
+#EXTINF:-1 tvg-id="458378" tvg-name="[AR] BOX OFFICE 88 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 88 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458378.ts
+#EXTINF:-1 tvg-id="458379" tvg-name="[AR] BOX OFFICE 89 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 89 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458379.ts
+#EXTINF:-1 tvg-id="458380" tvg-name="[AR] BOX OFFICE 90 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 90 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458380.ts
+#EXTINF:-1 tvg-id="458381" tvg-name="[AR] BOX OFFICE 91 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 91 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458381.ts
+#EXTINF:-1 tvg-id="458382" tvg-name="[AR] BOX OFFICE 92 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 92 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458382.ts
+#EXTINF:-1 tvg-id="458383" tvg-name="[AR] BOX OFFICE 93 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 93 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458383.ts
+#EXTINF:-1 tvg-id="458384" tvg-name="[AR] BOX OFFICE 94 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 94 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458384.ts
+#EXTINF:-1 tvg-id="458385" tvg-name="[AR] BOX OFFICE 95 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 95 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458385.ts
+#EXTINF:-1 tvg-id="458386" tvg-name="[AR] BOX OFFICE 96 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 96 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458386.ts
+#EXTINF:-1 tvg-id="458387" tvg-name="[AR] BOX OFFICE 97 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 97 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458387.ts
+#EXTINF:-1 tvg-id="458388" tvg-name="[AR] BOX OFFICE 98 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 98 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458388.ts
+#EXTINF:-1 tvg-id="458389" tvg-name="[AR] BOX OFFICE 99 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 99 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458389.ts
+#EXTINF:-1 tvg-id="458390" tvg-name="[AR] BOX OFFICE 100 FHD" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",[AR] BOX OFFICE 100 FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458390.ts
+#EXTINF:-1 tvg-id="909099" tvg-name="[AR] HBO ACTION" group-title="[AR] HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",[AR] HBO ACTION
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909099.ts
+#EXTINF:-1 tvg-id="909092" tvg-name="[AR] HBO ANIMATION" group-title="[AR] HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",[AR] HBO ANIMATION
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909092.ts
+#EXTINF:-1 tvg-id="909095" tvg-name="[AR] HBO ARABIC" group-title="[AR] HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",[AR] HBO ARABIC
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909095.ts
+#EXTINF:-1 tvg-id="909094" tvg-name="[AR] HBO ASIAN" group-title="[AR] HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",[AR] HBO ASIAN
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909094.ts
+#EXTINF:-1 tvg-id="909093" tvg-name="[AR] HBO BOLLYWOOD" group-title="[AR] HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",[AR] HBO BOLLYWOOD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909093.ts
+#EXTINF:-1 tvg-id="909097" tvg-name="[AR] HBO CRIME" group-title="[AR] HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",[AR] HBO CRIME
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909097.ts
+#EXTINF:-1 tvg-id="909098" tvg-name="[AR] HBO HISTORY" group-title="[AR] HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",[AR] HBO HISTORY
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909098.ts
+#EXTINF:-1 tvg-id="909096" tvg-name="[AR] HBO MAX" group-title="[AR] HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",[AR] HBO MAX
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909096.ts
+#EXTINF:-1 tvg-id="909100" tvg-name="[AR] HBO NOW MOVIES" group-title="[AR] HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",[AR] HBO NOW MOVIES
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909100.ts
+#EXTINF:-1 tvg-id="909101" tvg-name="[AR] HBO TOP TEN" group-title="[AR] HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",[AR] HBO TOP TEN
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909101.ts
+#EXTINF:-1 tvg-id="1341000" tvg-name="AR - ALWAN SPORT 1 4K" group-title="[AR] ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 1 4K
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1341000.ts
+#EXTINF:-1 tvg-id="1340999" tvg-name="AR - ALWAN SPORT 2 4K" group-title="[AR] ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 2 4K
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1340999.ts
+#EXTINF:-1 tvg-id="1340998" tvg-name="AR - ALWAN SPORT 3 4K" group-title="[AR] ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 3 4K
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1340998.ts
+#EXTINF:-1 tvg-id="1340997" tvg-name="AR - ALWAN SPORT 4 4K" group-title="[AR] ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 4 4K
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1340997.ts
+#EXTINF:-1 tvg-id="1340996" tvg-name="AR - ALWAN SPORT 5 4K" group-title="[AR] ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 5 4K
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1340996.ts
+#EXTINF:-1 tvg-id="1340995" tvg-name="AR - ALWAN SPORT 6 4K" group-title="[AR] ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 6 4K
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1340995.ts
+#EXTINF:-1 tvg-id="1340994" tvg-name="AR - ALWAN SPORT 1 HD" group-title="[AR] ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 1 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1340994.ts
+#EXTINF:-1 tvg-id="1340993" tvg-name="AR - ALWAN SPORT 2 HD" group-title="[AR] ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 2 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1340993.ts
+#EXTINF:-1 tvg-id="1340992" tvg-name="AR - ALWAN SPORT 3 HD" group-title="[AR] ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 3 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1340992.ts
+#EXTINF:-1 tvg-id="1340991" tvg-name="AR - ALWAN SPORT 4 HD" group-title="[AR] ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png",AR - ALWAN SPORT 4 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1340991.ts
+#EXTINF:-1 tvg-id="1340990" tvg-name="AR - ALWAN SPORT 5 HD" group-title="[AR] ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png",AR - ALWAN SPORT 5 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1340990.ts
+#EXTINF:-1 tvg-id="1340989" tvg-name="AR - ALWAN SPORT 6 HD" group-title="[AR] ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png",AR - ALWAN SPORT 6 HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1340989.ts
+#EXTINF:-1 tvg-id="1340988" tvg-name="AR - ALWAN SPORT 1 SD" group-title="[AR] ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png",AR - ALWAN SPORT 1 SD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1340988.ts
+#EXTINF:-1 tvg-id="1340987" tvg-name="AR - ALWAN SPORT 2 SD" group-title="[AR] ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png",AR - ALWAN SPORT 2 SD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1340987.ts
+#EXTINF:-1 tvg-id="1340986" tvg-name="AR - ALWAN SPORT 3 SD" group-title="[AR] ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png",AR - ALWAN SPORT 3 SD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1340986.ts
+#EXTINF:-1 tvg-id="1340985" tvg-name="AR - ALWAN SPORT 4 SD" group-title="[AR] ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png",AR - ALWAN SPORT 4 SD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1340985.ts
+#EXTINF:-1 tvg-id="1340984" tvg-name="AR - ALWAN SPORT 5 SD" group-title="[AR] ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png",AR - ALWAN SPORT 5 SD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1340984.ts
+#EXTINF:-1 tvg-id="1340983" tvg-name="AR - ALWAN SPORT 6 SD" group-title="[AR] ALWAN SPORT" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png",AR - ALWAN SPORT 6 SD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1340983.ts
+#EXTINF:-1 tvg-id="250038" tvg-name="##### AR - MBC #####" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/250038.png",##### AR - MBC #####
+http://line.netrolive.com:80/live/26457b4f/26bc0793/250038.ts
+#EXTINF:-1 tvg-id="658851" tvg-name="[AR] MIX ONE" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/658851.png",[AR] MIX ONE
+http://line.netrolive.com:80/live/26457b4f/26bc0793/658851.ts
+#EXTINF:-1 tvg-id="784132" tvg-name="##### SHAHID #####" group-title="[AR] MBC" tvg-logo="http://51.158.145.100/picons/logos/arabic/784132.png",##### SHAHID #####
+http://line.netrolive.com:80/live/26457b4f/26bc0793/784132.ts
+#EXTINF:-1 tvg-id="602746" tvg-name="###### GOBX - GOBX GROUP ######" group-title="[AR] GOBX GROUP" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/GOBX.png",###### GOBX - GOBX GROUP ######
+http://line.netrolive.com:80/live/26457b4f/26bc0793/602746.ts
+#EXTINF:-1 tvg-id="587714" tvg-name="###### NF - NETFLIX  ######" group-title="[AR] NETFLIX" tvg-logo="http://51.158.145.100/picons/logos/arabic/NETFLIX.png",###### NF - NETFLIX  ######
+http://line.netrolive.com:80/live/26457b4f/26bc0793/587714.ts
+#EXTINF:-1 tvg-id="908095" tvg-name="##### STARS PLAY 4K #####" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",##### STARS PLAY 4K #####
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908095.ts
+#EXTINF:-1 tvg-id="908076" tvg-name="[AR] IIKS LANS" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR] IIKS LANS
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908076.ts
+#EXTINF:-1 tvg-id="908089" tvg-name="[AR] AL AJHAR" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR] AL AJHAR
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908089.ts
+#EXTINF:-1 tvg-id="908090" tvg-name="[AR] ALZAND" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR] ALZAND
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908090.ts
+#EXTINF:-1 tvg-id="908091" tvg-name="[AR]  ALNAAR BIALNAAR" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR]  ALNAAR BIALNAAR
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908091.ts
+#EXTINF:-1 tvg-id="908077" tvg-name="[AR] ALNUKRAN" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR] ALNUKRAN
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908077.ts
+#EXTINF:-1 tvg-id="908078" tvg-name="[AR]  JITU SALIMA" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR]  JITU SALIMA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908078.ts
+#EXTINF:-1 tvg-id="908079" tvg-name="[AR] HADRAT ALEUMDA" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR] HADRAT ALEUMDA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908079.ts
+#EXTINF:-1 tvg-id="908092" tvg-name="[AR] KHARIF EUMAR" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR] KHARIF EUMAR
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908092.ts
+#EXTINF:-1 tvg-id="908093" tvg-name="[AR] ZIQAQ ALJINI" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR] ZIQAQ ALJINI
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908093.ts
+#EXTINF:-1 tvg-id="908080" tvg-name="[AR] SATUHIM" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR] SATUHIM
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908080.ts
+#EXTINF:-1 tvg-id="908081" tvg-name="[AR] SIRUH BATIE" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR] SIRUH BATIE
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908081.ts
+#EXTINF:-1 tvg-id="908082" tvg-name="[AR] SUQ ALKANTU" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR] SUQ ALKANTU
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908082.ts
+#EXTINF:-1 tvg-id="908083" tvg-name="[AR] EUMLAT NADIRA" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR] EUMLAT NADIRA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908083.ts
+#EXTINF:-1 tvg-id="908084" tvg-name="[AR] FANATAS" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR] FANATAS
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908084.ts
+#EXTINF:-1 tvg-id="908085" tvg-name="[AR] QURAT EAYNIK" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR] QURAT EAYNIK
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908085.ts
+#EXTINF:-1 tvg-id="908086" tvg-name="[AR]  QAFAS MUKHMALIUN" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR]  QAFAS MUKHMALIUN
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908086.ts
+#EXTINF:-1 tvg-id="908087" tvg-name="[AR] MAJARIH" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR] MAJARIH
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908087.ts
+#EXTINF:-1 tvg-id="908094" tvg-name="[AR] MURABAA ALEIZI" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR] MURABAA ALEIZI
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908094.ts
+#EXTINF:-1 tvg-id="908088" tvg-name="[AR]  MANZIL 12" group-title="[AR] STARZPLAY" tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png",[AR]  MANZIL 12
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908088.ts
+#EXTINF:-1 tvg-id="908389" tvg-name="##### AMAZON PRIME #####" group-title="[AR] PRIME+" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",##### AMAZON PRIME #####
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908389.ts
+#EXTINF:-1 tvg-id="908388" tvg-name="[AR] AMAZON ACTION" group-title="[AR] PRIME+" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",[AR] AMAZON ACTION
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908388.ts
+#EXTINF:-1 tvg-id="908377" tvg-name="[AR] AMAZON ARABI +" group-title="[AR] PRIME+" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",[AR] AMAZON ARABI +
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908377.ts
+#EXTINF:-1 tvg-id="908376" tvg-name="[AR] AMAZON ARABI +2" group-title="[AR] PRIME+" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",[AR] AMAZON ARABI +2
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908376.ts
+#EXTINF:-1 tvg-id="908384" tvg-name="[AR] AMAZON COMEDY" group-title="[AR] PRIME+" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",[AR] AMAZON COMEDY
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908384.ts
+#EXTINF:-1 tvg-id="908375" tvg-name="[AR] AMAZON COMIC" group-title="[AR] PRIME+" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",[AR] AMAZON COMIC
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908375.ts
+#EXTINF:-1 tvg-id="908387" tvg-name="[AR] AMAZON CRIME" group-title="[AR] PRIME+" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",[AR] AMAZON CRIME
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908387.ts
+#EXTINF:-1 tvg-id="908380" tvg-name="[AR] AMAZON DIRECTO" group-title="[AR] PRIME+" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",[AR] AMAZON DIRECTO
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908380.ts
+#EXTINF:-1 tvg-id="908378" tvg-name="[AR] AMAZON DOCUMENTARY" group-title="[AR] PRIME+" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",[AR] AMAZON DOCUMENTARY
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908378.ts
+#EXTINF:-1 tvg-id="908385" tvg-name="[AR] AMAZON DRAMA" group-title="[AR] PRIME+" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",[AR] AMAZON DRAMA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908385.ts
+#EXTINF:-1 tvg-id="908382" tvg-name="[AR] AMAZON FAMILY" group-title="[AR] PRIME+" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",[AR] AMAZON FAMILY
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908382.ts
+#EXTINF:-1 tvg-id="908374" tvg-name="[AR] AMAZON KIDS" group-title="[AR] PRIME+" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",[AR] AMAZON KIDS
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908374.ts
+#EXTINF:-1 tvg-id="908381" tvg-name="[AR] AMAZON MIXTA" group-title="[AR] PRIME+" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",[AR] AMAZON MIXTA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908381.ts
+#EXTINF:-1 tvg-id="908386" tvg-name="[AR] AMAZON MYSTERY" group-title="[AR] PRIME+" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",[AR] AMAZON MYSTERY
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908386.ts
+#EXTINF:-1 tvg-id="908383" tvg-name="[AR] AMAZON WAR" group-title="[AR] PRIME+" tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png",[AR] AMAZON WAR
+http://line.netrolive.com:80/live/26457b4f/26bc0793/908383.ts
+#EXTINF:-1 tvg-id="909382" tvg-name="##### HULU #####" group-title="[AR] HULU+" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",##### HULU #####
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909382.ts
+#EXTINF:-1 tvg-id="909381" tvg-name="[AR] HULU ADVENTURE" group-title="[AR] HULU+" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",[AR] HULU ADVENTURE
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909381.ts
+#EXTINF:-1 tvg-id="909371" tvg-name="[AR] HULU ANIMATION" group-title="[AR] HULU+" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",[AR] HULU ANIMATION
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909371.ts
+#EXTINF:-1 tvg-id="909380" tvg-name="[AR] HULU COMEDY" group-title="[AR] HULU+" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",[AR] HULU COMEDY
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909380.ts
+#EXTINF:-1 tvg-id="909379" tvg-name="[AR] HULU CRIME" group-title="[AR] HULU+" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",[AR] HULU CRIME
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909379.ts
+#EXTINF:-1 tvg-id="909376" tvg-name="[AR] HULU FANTASY" group-title="[AR] HULU+" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",[AR] HULU FANTASY
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909376.ts
+#EXTINF:-1 tvg-id="909375" tvg-name="[AR] HULU FRENCH" group-title="[AR] HULU+" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",[AR] HULU FRENCH
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909375.ts
+#EXTINF:-1 tvg-id="909373" tvg-name="[AR] HULU GERMANY" group-title="[AR] HULU+" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",[AR] HULU GERMANY
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909373.ts
+#EXTINF:-1 tvg-id="909374" tvg-name="[AR] HULU ITALIAN" group-title="[AR] HULU+" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",[AR] HULU ITALIAN
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909374.ts
+#EXTINF:-1 tvg-id="909378" tvg-name="[AR] HULU MYSTERY" group-title="[AR] HULU+" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",[AR] HULU MYSTERY
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909378.ts
+#EXTINF:-1 tvg-id="909377" tvg-name="[AR] HULU SCI- FI" group-title="[AR] HULU+" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",[AR] HULU SCI- FI
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909377.ts
+#EXTINF:-1 tvg-id="909372" tvg-name="[AR] HULU SPANISH" group-title="[AR] HULU+" tvg-logo="http://51.158.145.100/picons/logos/arabic/HULU.png",[AR] HULU SPANISH
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909372.ts
+#EXTINF:-1 tvg-id="909102" tvg-name="##### HBO #####" group-title="[AR] HBO" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png",##### HBO #####
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909102.ts
+#EXTINF:-1 tvg-id="909573" tvg-name="##### TOD #####" group-title="[AR] TOD+" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",##### TOD #####
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909573.ts
+#EXTINF:-1 tvg-id="909562" tvg-name="[AR] TDO ONCE" group-title="[AR] TOD+" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",[AR] TDO ONCE
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909562.ts
+#EXTINF:-1 tvg-id="909560" tvg-name="[AR] TOD CATORCE" group-title="[AR] TOD+" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",[AR] TOD CATORCE
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909560.ts
+#EXTINF:-1 tvg-id="909568" tvg-name="[AR]  TOD CINCO" group-title="[AR] TOD+" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",[AR]  TOD CINCO
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909568.ts
+#EXTINF:-1 tvg-id="909569" tvg-name="[AR] TOD CUATRO" group-title="[AR] TOD+" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",[AR] TOD CUATRO
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909569.ts
+#EXTINF:-1 tvg-id="909556" tvg-name="[AR] TOD DIECIOCHO" group-title="[AR] TOD+" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",[AR] TOD DIECIOCHO
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909556.ts
+#EXTINF:-1 tvg-id="909557" tvg-name="[AR] TOD DIECISIETE" group-title="[AR] TOD+" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",[AR] TOD DIECISIETE
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909557.ts
+#EXTINF:-1 tvg-id="909558" tvg-name="[AR] TOD DIECISÉIS" group-title="[AR] TOD+" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",[AR] TOD DIECISÉIS
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909558.ts
+#EXTINF:-1 tvg-id="909563" tvg-name="[AR] TOD DIEZ" group-title="[AR] TOD+" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",[AR] TOD DIEZ
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909563.ts
+#EXTINF:-1 tvg-id="909571" tvg-name="[AR] TOD DOS" group-title="[AR] TOD+" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",[AR] TOD DOS
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909571.ts
+#EXTINF:-1 tvg-id="909564" tvg-name="[AR] TOD NUEVE" group-title="[AR] TOD+" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",[AR] TOD NUEVE
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909564.ts
+#EXTINF:-1 tvg-id="909565" tvg-name="[AR] TOD OCHO" group-title="[AR] TOD+" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",[AR] TOD OCHO
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909565.ts
+#EXTINF:-1 tvg-id="909559" tvg-name="[AR] TOD QUINCE" group-title="[AR] TOD+" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",[AR] TOD QUINCE
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909559.ts
+#EXTINF:-1 tvg-id="909567" tvg-name="[AR] TOD SEIS" group-title="[AR] TOD+" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",[AR] TOD SEIS
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909567.ts
+#EXTINF:-1 tvg-id="909566" tvg-name="[AR] TOD SIETE" group-title="[AR] TOD+" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",[AR] TOD SIETE
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909566.ts
+#EXTINF:-1 tvg-id="909561" tvg-name="[AR] TOD TRECE" group-title="[AR] TOD+" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",[AR] TOD TRECE
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909561.ts
+#EXTINF:-1 tvg-id="909570" tvg-name="[AR] TOD TRES" group-title="[AR] TOD+" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",[AR] TOD TRES
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909570.ts
+#EXTINF:-1 tvg-id="909572" tvg-name="[AR] TOD UNA" group-title="[AR] TOD+" tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png",[AR] TOD UNA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909572.ts
+#EXTINF:-1 tvg-id="909978" tvg-name="##### VIVO #####" group-title="[AR] VIVO+" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",##### VIVO #####
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909978.ts
+#EXTINF:-1 tvg-id="909971" tvg-name="[AR] VIVO CENTRAL HD" group-title="[AR] VIVO+" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",[AR] VIVO CENTRAL HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909971.ts
+#EXTINF:-1 tvg-id="909977" tvg-name="[AR] VIVO CINEMA HD" group-title="[AR] VIVO+" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",[AR] VIVO CINEMA HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909977.ts
+#EXTINF:-1 tvg-id="909976" tvg-name="[AR] VIVO CLUB HD" group-title="[AR] VIVO+" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",[AR] VIVO CLUB HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909976.ts
+#EXTINF:-1 tvg-id="909967" tvg-name="[AR] VIVO CRYSTAL HD" group-title="[AR] VIVO+" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",[AR] VIVO CRYSTAL HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909967.ts
+#EXTINF:-1 tvg-id="1006838" tvg-name="[AR] VIVO LIVE HD" group-title="[AR] VIVO+" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",[AR] VIVO LIVE HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006838.ts
+#EXTINF:-1 tvg-id="909972" tvg-name="[AR] VIVO MOVIES HD" group-title="[AR] VIVO+" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",[AR] VIVO MOVIES HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909972.ts
+#EXTINF:-1 tvg-id="909968" tvg-name="[AR] VIVO ONLINE HD" group-title="[AR] VIVO+" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",[AR] VIVO ONLINE HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909968.ts
+#EXTINF:-1 tvg-id="909975" tvg-name="[AR] VIVO OSCAR HD" group-title="[AR] VIVO+" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",[AR] VIVO OSCAR HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909975.ts
+#EXTINF:-1 tvg-id="909965" tvg-name="[AR] VIVO PEOPLE ARE AWESOME HD" group-title="[AR] VIVO+" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",[AR] VIVO PEOPLE ARE AWESOME HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909965.ts
+#EXTINF:-1 tvg-id="909973" tvg-name="[AR] VIVO PLUS + HD" group-title="[AR] VIVO+" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",[AR] VIVO PLUS + HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909973.ts
+#EXTINF:-1 tvg-id="909974" tvg-name="[AR] VIVO SHOWTIME HD" group-title="[AR] VIVO+" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",[AR] VIVO SHOWTIME HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909974.ts
+#EXTINF:-1 tvg-id="909969" tvg-name="[AR] VIVO WAR TIME GALAXY HD" group-title="[AR] VIVO+" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",[AR] VIVO WAR TIME GALAXY HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909969.ts
+#EXTINF:-1 tvg-id="909970" tvg-name="[AR] VIVO WAR TIME HD" group-title="[AR] VIVO+" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",[AR] VIVO WAR TIME HD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909970.ts
+#EXTINF:-1 tvg-id="909966" tvg-name="[AR] VIVO WIPEOUT XTRA 4K" group-title="[AR] VIVO+" tvg-logo="http://51.158.145.100/picons/logos/arabic/VIVO.png",[AR] VIVO WIPEOUT XTRA 4K
+http://line.netrolive.com:80/live/26457b4f/26bc0793/909966.ts
+#EXTINF:-1 tvg-id="1006905" tvg-name="[AR] ADEL EMAM MOVIES" group-title="[AR] ACTORS 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ADEL-EMAM.png",[AR] ADEL EMAM MOVIES
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006905.ts
+#EXTINF:-1 tvg-id="1006906" tvg-name="[AR] ADEL EMAM MOVIES 2" group-title="[AR] ACTORS 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ADEL-EMAM.png",[AR] ADEL EMAM MOVIES 2
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006906.ts
+#EXTINF:-1 tvg-id="1006910" tvg-name="[AR] AHMED EL SAKKA MOVIES" group-title="[AR] ACTORS 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AHMED-EL-SAKKA.png",[AR] AHMED EL SAKKA MOVIES
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006910.ts
+#EXTINF:-1 tvg-id="1006909" tvg-name="[AR] AHMED HELMY MOVIES" group-title="[AR] ACTORS 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AHMED-HELMY.png",[AR] AHMED HELMY MOVIES
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006909.ts
+#EXTINF:-1 tvg-id="1006907" tvg-name="[AR]  AHMED ZAKI MOVIES" group-title="[AR] ACTORS 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AHMED-ZAKI.png",[AR]  AHMED ZAKI MOVIES
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006907.ts
+#EXTINF:-1 tvg-id="1006908" tvg-name="[AR] AHMED ZAKI MOVIES 2" group-title="[AR] ACTORS 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AHMED-ZAKI.png",[AR] AHMED ZAKI MOVIES 2
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006908.ts
+#EXTINF:-1 tvg-id="1006903" tvg-name="[AR] TOM CRUISE MOVIES" group-title="[AR] ACTORS 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOM-CRUISE.png",[AR] TOM CRUISE MOVIES
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006903.ts
+#EXTINF:-1 tvg-id="1006904" tvg-name="[AR] TOM CRUISE MOVIES 2" group-title="[AR] ACTORS 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOM-CRUISE.png",[AR] TOM CRUISE MOVIES 2
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006904.ts
+#EXTINF:-1 tvg-id="1006901" tvg-name="[AR] TOM HANKS MOVIES" group-title="[AR] ACTORS 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOM-HANKS.png",[AR] TOM HANKS MOVIES
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006901.ts
+#EXTINF:-1 tvg-id="1006902" tvg-name="[AR] TOM HANKS MOVIES+" group-title="[AR] ACTORS 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOM-HANKS.png",[AR] TOM HANKS MOVIES+
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006902.ts
+#EXTINF:-1 tvg-id="1006826" tvg-name="[AR] MAJESTIC ACTION" group-title="[AR] MAJESTIC 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png",[AR] MAJESTIC ACTION
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006826.ts
+#EXTINF:-1 tvg-id="1006833" tvg-name="[AR] MAJESTIC ACTION EN" group-title="[AR] MAJESTIC 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png",[AR] MAJESTIC ACTION EN
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006833.ts
+#EXTINF:-1 tvg-id="1006832" tvg-name="[AR] MAJESTIC ADVENTURE" group-title="[AR] MAJESTIC 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png",[AR] MAJESTIC ADVENTURE
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006832.ts
+#EXTINF:-1 tvg-id="1006837" tvg-name="[AR] MAJESTIC ANIMATION" group-title="[AR] MAJESTIC 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png",[AR] MAJESTIC ANIMATION
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006837.ts
+#EXTINF:-1 tvg-id="1006828" tvg-name="[AR] MAJESTIC COMEDY" group-title="[AR] MAJESTIC 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png",[AR] MAJESTIC COMEDY
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006828.ts
+#EXTINF:-1 tvg-id="1006835" tvg-name="[AR] MAJESTIC COMEDY EN" group-title="[AR] MAJESTIC 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png",[AR] MAJESTIC COMEDY EN
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006835.ts
+#EXTINF:-1 tvg-id="1006827" tvg-name="[AR] MAJESTIC DRAMA" group-title="[AR] MAJESTIC 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png",[AR] MAJESTIC DRAMA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006827.ts
+#EXTINF:-1 tvg-id="1006834" tvg-name="[AR] MAJESTIC DRAMA EN" group-title="[AR] MAJESTIC 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png",[AR] MAJESTIC DRAMA EN
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006834.ts
+#EXTINF:-1 tvg-id="1006831" tvg-name="[AR]  MAJESTIC FAMILY" group-title="[AR] MAJESTIC 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png",[AR]  MAJESTIC FAMILY
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006831.ts
+#EXTINF:-1 tvg-id="1006829" tvg-name="[AR]  MAJESTIC HORROR" group-title="[AR] MAJESTIC 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png",[AR]  MAJESTIC HORROR
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006829.ts
+#EXTINF:-1 tvg-id="1006830" tvg-name="[AR] MAJESTIC THRILLER" group-title="[AR] MAJESTIC 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png",[AR] MAJESTIC THRILLER
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006830.ts
+#EXTINF:-1 tvg-id="1006836" tvg-name="[AR] MAJESTIC THRILLER EN" group-title="[AR] MAJESTIC 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png",[AR] MAJESTIC THRILLER EN
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006836.ts
+#EXTINF:-1 tvg-id="1007020" tvg-name="[AR] POWER ACTION UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",[AR] POWER ACTION UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007020.ts
+#EXTINF:-1 tvg-id="1007023" tvg-name="[AR] POWER AVANGERS UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",[AR] POWER AVANGERS UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007023.ts
+#EXTINF:-1 tvg-id="1007032" tvg-name="[AR] POWER CLIPS UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",[AR] POWER CLIPS UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007032.ts
+#EXTINF:-1 tvg-id="1007028" tvg-name="[AR]  POWER DISNEY UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",[AR]  POWER DISNEY UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007028.ts
+#EXTINF:-1 tvg-id="1007021" tvg-name="[AR]  POWER DRAMA UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",[AR]  POWER DRAMA UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007021.ts
+#EXTINF:-1 tvg-id="1007026" tvg-name="[AR] POWER FILMBOX UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",[AR] POWER FILMBOX UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007026.ts
+#EXTINF:-1 tvg-id="1007030" tvg-name="[AR] POWER FITNESS M UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",[AR] POWER FITNESS M UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007030.ts
+#EXTINF:-1 tvg-id="1007031" tvg-name="[AR] POWER FITNESS W UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",[AR] POWER FITNESS W UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007031.ts
+#EXTINF:-1 tvg-id="1007025" tvg-name="[AR] POWER FOX MOVIES UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",[AR] POWER FOX MOVIES UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007025.ts
+#EXTINF:-1 tvg-id="1007022" tvg-name="[AR]  POWER MARVEL UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",[AR]  POWER MARVEL UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007022.ts
+#EXTINF:-1 tvg-id="1007029" tvg-name="[AR] POWER SERIES UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",[AR] POWER SERIES UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007029.ts
+#EXTINF:-1 tvg-id="1007027" tvg-name="[AR] POWER SPIDER UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",[AR] POWER SPIDER UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007027.ts
+#EXTINF:-1 tvg-id="1007024" tvg-name="[AR]  POWER THOR UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/POWER.png",[AR]  POWER THOR UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007024.ts
+#EXTINF:-1 tvg-id="1006845" tvg-name="[AR] WATCHBOX BARAEEM" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",[AR] WATCHBOX BARAEEM
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006845.ts
+#EXTINF:-1 tvg-id="1007040" tvg-name="[AR] WATCHBOX BARAEEM UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",[AR] WATCHBOX BARAEEM UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007040.ts
+#EXTINF:-1 tvg-id="1006844" tvg-name="[AR] WATCHBOX DISNEY XD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",[AR] WATCHBOX DISNEY XD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006844.ts
+#EXTINF:-1 tvg-id="1007039" tvg-name="[AR] WATCHBOX DISNEY XD UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",[AR] WATCHBOX DISNEY XD UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007039.ts
+#EXTINF:-1 tvg-id="1006846" tvg-name="[AR] WATCHBOX DOCUMENTARY" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",[AR] WATCHBOX DOCUMENTARY
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006846.ts
+#EXTINF:-1 tvg-id="1007036" tvg-name="[AR] WATCHBOX DOCUMENTARY UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",[AR] WATCHBOX DOCUMENTARY UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007036.ts
+#EXTINF:-1 tvg-id="1006843" tvg-name="[AR] WATCHBOX LIFE" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",[AR] WATCHBOX LIFE
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006843.ts
+#EXTINF:-1 tvg-id="1007035" tvg-name="[AR] WATCHBOX LIFE UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",[AR] WATCHBOX LIFE UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007035.ts
+#EXTINF:-1 tvg-id="1006842" tvg-name="[AR] WATCHBOX MAX" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",[AR] WATCHBOX MAX
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006842.ts
+#EXTINF:-1 tvg-id="1007037" tvg-name="[AR] WATCHBOX MAX UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",[AR] WATCHBOX MAX UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007037.ts
+#EXTINF:-1 tvg-id="1006841" tvg-name="[AR] WATCHBOX PRIME" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",[AR] WATCHBOX PRIME
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006841.ts
+#EXTINF:-1 tvg-id="1007038" tvg-name="[AR] WATCHBOX PRIME UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",[AR] WATCHBOX PRIME UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007038.ts
+#EXTINF:-1 tvg-id="1006840" tvg-name="[AR] WATCHBOX REWAYAT" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",[AR] WATCHBOX REWAYAT
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006840.ts
+#EXTINF:-1 tvg-id="1007034" tvg-name="[AR] WATCHBOX REWAYAT UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",[AR] WATCHBOX REWAYAT UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007034.ts
+#EXTINF:-1 tvg-id="1006839" tvg-name="[AR] WATCHBOX SIGNAL" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",[AR] WATCHBOX SIGNAL
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006839.ts
+#EXTINF:-1 tvg-id="1007033" tvg-name="[AR] WATCHBOX SIGNAL UHD" group-title="[AR] WATCHBOX 4K" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png",[AR] WATCHBOX SIGNAL UHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1007033.ts
+#EXTINF:-1 tvg-id="1006847" tvg-name="##### WEYYAK #####" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",##### WEYYAK #####
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006847.ts
+#EXTINF:-1 tvg-id="1006869" tvg-name="[AR] WEYYAK ACTION FHD" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR] WEYYAK ACTION FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006869.ts
+#EXTINF:-1 tvg-id="1006867" tvg-name="[AR] WEYYAK DRAMA FHD" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR] WEYYAK DRAMA FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006867.ts
+#EXTINF:-1 tvg-id="1006868" tvg-name="[AR] WEYYAK MIX FHD" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR] WEYYAK MIX FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006868.ts
+#EXTINF:-1 tvg-id="1006870" tvg-name="[AR] WEYYAK NAWAEM FHD" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR] WEYYAK NAWAEM FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006870.ts
+#EXTINF:-1 tvg-id="1006866" tvg-name="[AR] WEYYAK SMASHI TV FHD" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR] WEYYAK SMASHI TV FHD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006866.ts
+#EXTINF:-1 tvg-id="1006852" tvg-name="[AR] AYUWB" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR] AYUWB
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006852.ts
+#EXTINF:-1 tvg-id="1006851" tvg-name="[AR] IIMRA AT MIN RAMAD" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR] IIMRA AT MIN RAMAD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006851.ts
+#EXTINF:-1 tvg-id="1006849" tvg-name="[AR] ALMIFTAH" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR] ALMIFTAH
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006849.ts
+#EXTINF:-1 tvg-id="1006850" tvg-name="[AR] ALMUAJAHA" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR] ALMUAJAHA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006850.ts
+#EXTINF:-1 tvg-id="1006856" tvg-name="[AR] HAKAYA" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR] HAKAYA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006856.ts
+#EXTINF:-1 tvg-id="1006857" tvg-name="[AR] HAKAYA ALMARAYA" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR] HAKAYA ALMARAYA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006857.ts
+#EXTINF:-1 tvg-id="1006853" tvg-name="[AR] RAHIM" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR] RAHIM
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006853.ts
+#EXTINF:-1 tvg-id="1006862" tvg-name="[AR]  EITR ALSHAAM 1" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR]  EITR ALSHAAM 1
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006862.ts
+#EXTINF:-1 tvg-id="1006863" tvg-name="[AR]  EITR ALSHAAM 2" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR]  EITR ALSHAAM 2
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006863.ts
+#EXTINF:-1 tvg-id="1006864" tvg-name="[AR] EITR ALSHAAM 3" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR] EITR ALSHAAM 3
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006864.ts
+#EXTINF:-1 tvg-id="1006865" tvg-name="[AR] EITR ALSHAAM 4" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR] EITR ALSHAAM 4
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006865.ts
+#EXTINF:-1 tvg-id="1006848" tvg-name="[AR] LIMAEI ALQAT" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR] LIMAEI ALQAT
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006848.ts
+#EXTINF:-1 tvg-id="1006858" tvg-name="[AR] MARAYA 1997" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR] MARAYA 1997
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006858.ts
+#EXTINF:-1 tvg-id="1006859" tvg-name="[AR]  MARAYA 1998" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR]  MARAYA 1998
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006859.ts
+#EXTINF:-1 tvg-id="1006860" tvg-name="[AR]  MARAYA 2003" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR]  MARAYA 2003
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006860.ts
+#EXTINF:-1 tvg-id="1006861" tvg-name="[AR]  MARAYA 2011" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR]  MARAYA 2011
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006861.ts
+#EXTINF:-1 tvg-id="1006855" tvg-name="[AR] WATHIQAT SHARAF" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR] WATHIQAT SHARAF
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006855.ts
+#EXTINF:-1 tvg-id="1006854" tvg-name="[AR] WATAN HAF" group-title="[AR] WEYYAK+" tvg-logo="http://51.158.145.100/picons/logos/arabic/wayak.png",[AR] WATAN HAF
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006854.ts
+#EXTINF:-1 tvg-id="904414" tvg-name="##### WATCH IT #####" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons/logos/logos/WATCH-IT.png",##### WATCH IT #####
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904414.ts
+#EXTINF:-1 tvg-id="904415" tvg-name="[AR] ADHKAA GHABI FI ALEALAM" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR] ADHKAA GHABI FI ALEALAM
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904415.ts
+#EXTINF:-1 tvg-id="904416" tvg-name="[AR]  AEMAL IIH" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR]  AEMAL IIH
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904416.ts
+#EXTINF:-1 tvg-id="904434" tvg-name="[AR] AL ASLIU" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR] AL ASLIU
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904434.ts
+#EXTINF:-1 tvg-id="904421" tvg-name="[AR] ALEILAT DI" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR] ALEILAT DI
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904421.ts
+#EXTINF:-1 tvg-id="904435" tvg-name="[AR] ALEILAT DI" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR] ALEILAT DI
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904435.ts
+#EXTINF:-1 tvg-id="904417" tvg-name="[AR] ALKABTIN JUDA" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR] ALKABTIN JUDA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904417.ts
+#EXTINF:-1 tvg-id="904433" tvg-name="[AR]  ALKATIBA 101" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR]  ALKATIBA 101
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904433.ts
+#EXTINF:-1 tvg-id="904419" tvg-name="[AR]  ALMAL WALBANUN 1" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR]  ALMAL WALBANUN 1
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904419.ts
+#EXTINF:-1 tvg-id="904420" tvg-name="[AR]  ALMAL WALBANUN 2" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR]  ALMAL WALBANUN 2
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904420.ts
+#EXTINF:-1 tvg-id="904429" tvg-name="[AR] BABA ALMAJAL" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR] BABA ALMAJAL
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904429.ts
+#EXTINF:-1 tvg-id="904436" tvg-name="[AR] BALTW" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR] BALTW
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904436.ts
+#EXTINF:-1 tvg-id="904422" tvg-name="[AR]  TAHT ALWISAYA" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR]  TAHT ALWISAYA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904422.ts
+#EXTINF:-1 tvg-id="904426" tvg-name="[AR]  TALAT ALTALATA" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR]  TALAT ALTALATA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904426.ts
+#EXTINF:-1 tvg-id="904428" tvg-name="[AR]  JAEFAR ALEUMDA" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR]  JAEFAR ALEUMDA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904428.ts
+#EXTINF:-1 tvg-id="904423" tvg-name="[AR] HARB" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR] HARB
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904423.ts
+#EXTINF:-1 tvg-id="904424" tvg-name="[AR] DARB NAR" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR] DARB NAR
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904424.ts
+#EXTINF:-1 tvg-id="904430" tvg-name="[AR] EALAQAT MASHRUEA" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR] EALAQAT MASHRUEA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904430.ts
+#EXTINF:-1 tvg-id="904438" tvg-name="[AR] EUMAR W DIAB" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR] EUMAR W DIAB
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904438.ts
+#EXTINF:-1 tvg-id="904418" tvg-name="[AR] EUYUN" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR] EUYUN
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904418.ts
+#EXTINF:-1 tvg-id="904432" tvg-name="[AR] KASHF MUSTAEJAL" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR] KASHF MUSTAEJAL
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904432.ts
+#EXTINF:-1 tvg-id="904425" tvg-name="[AR] LAYL AM ALBANAT" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR] LAYL AM ALBANAT
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904425.ts
+#EXTINF:-1 tvg-id="904431" tvg-name="[AR] MUDHAKIRAT ZAWJ" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR] MUDHAKIRAT ZAWJ
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904431.ts
+#EXTINF:-1 tvg-id="904437" tvg-name="[AR] MISHWAR ALWINSH" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR] MISHWAR ALWINSH
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904437.ts
+#EXTINF:-1 tvg-id="904427" tvg-name="[AR] WUEUD SAKHIA" group-title="[AR] WATCH IT+" tvg-logo="http://103.176.90.118/picons-dino/logos/WATCH-IT.png",[AR] WUEUD SAKHIA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/904427.ts
+#EXTINF:-1 tvg-id="458290" tvg-name="##### AR - BOX OFFICE #####" group-title="[AR] PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/arabic/BOXOFFICE.png",##### AR - BOX OFFICE #####
+http://line.netrolive.com:80/live/26457b4f/26bc0793/458290.ts
+#EXTINF:-1 tvg-id="1006971" tvg-name="[AR] 911" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/911.png",[AR] 911
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006971.ts
+#EXTINF:-1 tvg-id="1006961" tvg-name="[AR] ALHAYBA" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALHAYBA.png",[AR] ALHAYBA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006961.ts
+#EXTINF:-1 tvg-id="1006967" tvg-name="[AR] ALZAEEM" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALZAEEM.png",[AR] ALZAEEM
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006967.ts
+#EXTINF:-1 tvg-id="1006965" tvg-name="[AR] ANA BAHKILAK ELGESSA" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ANA-BAHKILAK-ELGESSA.png",[AR] ANA BAHKILAK ELGESSA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006965.ts
+#EXTINF:-1 tvg-id="1006980" tvg-name="[AR] AROUND THE WORLD" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AROUND-THE-WORLD.png",[AR] AROUND THE WORLD
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006980.ts
+#EXTINF:-1 tvg-id="1006968" tvg-name="[AR] AYMAN ZAYDAN" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AYMAN-ZAYDAN.jpg",[AR] AYMAN ZAYDAN
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006968.ts
+#EXTINF:-1 tvg-id="1006959" tvg-name="[AR] BY2AH SHAMYEH" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/BY2AH-SHAMYEH.png",[AR] BY2AH SHAMYEH
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006959.ts
+#EXTINF:-1 tvg-id="1006982" tvg-name="[AR] CARAVAN" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/CARAVAN.png",[AR] CARAVAN
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006982.ts
+#EXTINF:-1 tvg-id="1006975" tvg-name="[AR] CHEF MAN" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/CHEF-MAN.png",[AR] CHEF MAN
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006975.ts
+#EXTINF:-1 tvg-id="1006979" tvg-name="[AR] DAHIK WABS" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/DAHIK-WABS.png",[AR] DAHIK WABS
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006979.ts
+#EXTINF:-1 tvg-id="1006955" tvg-name="[AR] DOCUMENTARIES" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/DOCUMENTARIES.png",[AR] DOCUMENTARIES
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006955.ts
+#EXTINF:-1 tvg-id="1006974" tvg-name="[AR] HAKI MONAWWA" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/HAKI-MONAWWA.png",[AR] HAKI MONAWWA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006974.ts
+#EXTINF:-1 tvg-id="1006964" tvg-name="[AR] HARET ALQUBBEH" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/HARET-ALQUBBEH.png",[AR] HARET ALQUBBEH
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006964.ts
+#EXTINF:-1 tvg-id="1006977" tvg-name="[AR] HELWA YA DONYA" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/HELWA-YA-DONYA.png",[AR] HELWA YA DONYA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006977.ts
+#EXTINF:-1 tvg-id="1006962" tvg-name="[AR] JALTA" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/JALTA.png",[AR] JALTA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006962.ts
+#EXTINF:-1 tvg-id="1006960" tvg-name="[AR] MASRAHYYAT" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MASRAHYYAT.png",[AR] MASRAHYYAT
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006960.ts
+#EXTINF:-1 tvg-id="1006958" tvg-name="[AR] MOJTAMAII" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MOJTAMAII.png",[AR] MOJTAMAII
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006958.ts
+#EXTINF:-1 tvg-id="1006966" tvg-name="[AR]  NADINE NJAIM" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/NADINE-NJAIM.png",[AR]  NADINE NJAIM
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006966.ts
+#EXTINF:-1 tvg-id="1006981" tvg-name="[AR] RED BULL" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/RED-BULL.png",[AR] RED BULL
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006981.ts
+#EXTINF:-1 tvg-id="1006949" tvg-name="[AR] ROYA" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ROYA-NEWS.png",[AR] ROYA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006949.ts
+#EXTINF:-1 tvg-id="1006951" tvg-name="[AR] ROYA ACTION" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ROYA-NEWS.png",[AR] ROYA ACTION
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006951.ts
+#EXTINF:-1 tvg-id="1006973" tvg-name="[AR] ROYA ADVENTURES" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ROYA-NEWS.png",[AR] ROYA ADVENTURES
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006973.ts
+#EXTINF:-1 tvg-id="1006950" tvg-name="[AR] ROYA DRAMA" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ROYA-NEWS.png",[AR] ROYA DRAMA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006950.ts
+#EXTINF:-1 tvg-id="1006984" tvg-name="[AR] ROYA KIDS" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ROYA-KIDS.png",[AR] ROYA KIDS
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006984.ts
+#EXTINF:-1 tvg-id="1006985" tvg-name="[AR] ROYA KIDS SONGS" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ROYA-KIDS.png",[AR] ROYA KIDS SONGS
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006985.ts
+#EXTINF:-1 tvg-id="1006986" tvg-name="[AR] ROYA KIDS STORIES" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ROYA-KIDS.png",[AR] ROYA KIDS STORIES
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006986.ts
+#EXTINF:-1 tvg-id="1006952" tvg-name="[AR] ROYA KITCHEN" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ROYA-NEWS.png",[AR] ROYA KITCHEN
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006952.ts
+#EXTINF:-1 tvg-id="1006954" tvg-name="[AR] ROYA MUSIC" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ROYA-NEWS.png",[AR] ROYA MUSIC
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006954.ts
+#EXTINF:-1 tvg-id="1006983" tvg-name="[AR] ROYA NEWS" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ROYA-NEWS.png",[AR] ROYA NEWS
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006983.ts
+#EXTINF:-1 tvg-id="1006953" tvg-name="[AR] ROYA PALESTINE" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ROYA-NEWS.png",[AR] ROYA PALESTINE
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006953.ts
+#EXTINF:-1 tvg-id="1006956" tvg-name="[AR] ROYA PRODUCTION" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ROYA-NEWS.png",[AR] ROYA PRODUCTION
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006956.ts
+#EXTINF:-1 tvg-id="1006957" tvg-name="[AR] SAEET MAHABBEH" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/SAEET-MAHABBEH.png",[AR] SAEET MAHABBEH
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006957.ts
+#EXTINF:-1 tvg-id="1006978" tvg-name="[AR] SAYIDAT ALSHAASHA" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/SAYIDAT-ALSHAASHA.png",[AR] SAYIDAT ALSHAASHA
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006978.ts
+#EXTINF:-1 tvg-id="1006969" tvg-name="[AR] SETT ALNAKHAT" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/SETT-ALNAKHAT.png",[AR] SETT ALNAKHAT
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006969.ts
+#EXTINF:-1 tvg-id="1006976" tvg-name="[AR] TABEKH W NAFEKH" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TABEKH-W-NAFEKH.png",[AR] TABEKH W NAFEKH
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006976.ts
+#EXTINF:-1 tvg-id="1006963" tvg-name="[AR] WATAN 3A WATAR" group-title="[AR] ROYA+" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/WATAN-3A-WATAR.png",[AR] WATAN 3A WATAR
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006963.ts
+#EXTINF:-1 tvg-id="1006970" tvg-name="[AR] ZST" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ZST.png",[AR] ZST
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006970.ts
+#EXTINF:-1 tvg-id="1006972" tvg-name="[AR] ?????? ??????" group-title="[AR] ROYA+" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ROYA-NEWS.png",[AR] ?????? ??????
+http://line.netrolive.com:80/live/26457b4f/26bc0793/1006972.ts
